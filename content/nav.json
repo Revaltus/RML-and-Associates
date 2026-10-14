@@ -41,6 +41,10 @@
     {
       "label": "Meet the team",
       "url": "/meet-the-team"
+    },
+    {
+      "label": "Industries",
+      "url": "/industries"
     }
   ],
   "cta": {
