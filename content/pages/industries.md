@@ -1,6 +1,6 @@
 ---
 title: "Industries | RML and Associates CPAs LLC"
-url: "/services/industries"
+url: "/industries"
 meta_title: "Industries"
 meta_description: ""
 target_keyword: ""
