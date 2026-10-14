@@ -1,20 +1,34 @@
 {
   "primary": [
     {
+      "label": "Services",
+      "url": "/",
+      "children": [
+        {
+          "label": "Accounting and bookkeeping",
+          "url": "/accounting"
+        },
+        {
+          "label": "Business tax",
+          "url": "/business-tax"
+        },
+        {
+          "label": "Advisory services",
+          "url": "/advisory"
+        },
+        {
+          "label": "Personal income tax",
+          "url": "/personal-income-tax"
+        }
+      ]
+    },
+    {
+      "label": "Industries",
+      "url": "/"
+    },
+    {
       "label": "Careers",
       "url": "/employment-opportunities"
-    },
-    {
-      "label": "Personal income tax",
-      "url": "/personal-income-tax"
-    },
-    {
-      "label": "Business tax",
-      "url": "/business-tax"
-    },
-    {
-      "label": "Accounting and bookkeeping",
-      "url": "/accounting"
     },
     {
       "label": "Forms, Documents, and Links",
@@ -31,10 +45,6 @@
     {
       "label": "Privacy statement",
       "url": "/privacy-statement"
-    },
-    {
-      "label": "Advisory services",
-      "url": "/advisory"
     },
     {
       "label": "Meet the team",
