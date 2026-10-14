@@ -1,11 +1,11 @@
 ---
 title: "Accounting and bookkeeping | RML and Associates CPAs LLC"
-url: "/accounting"
+url: "/services/accounting"
 meta_title: "Accounting Services Laramie WY | RML and Associates CPAs"
 meta_description: "Locally owned Laramie CPA firm offering monthly bookkeeping, payroll setup and cloud accounting for ranches, restaurants and non-profits. Free consultation."
 target_keyword: "accounting services Laramie WY"
 secondary_keywords: ["CPA firm Laramie Wyoming","payroll services Laramie WY","non-profit accounting Laramie WY","real estate accounting Laramie WY","accountant near me Laramie","outsourced accounting services Laramie WY","QuickBooks bookkeeping Laramie WY","non-profit bookkeeping Wyoming","real estate investor bookkeeping Laramie","business accounting help Albany County WY"]
-canonical_url: "https://rmlcpas.com/accounting"
+canonical_url: "https://rmlcpas.com/services/accounting"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Books that stay current all year, so you can plan, file and decide with confidence"
