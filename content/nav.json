@@ -1,40 +1,44 @@
 {
   "primary": [
     {
-      "url": "/employment-opportunities",
-      "label": "Careers"
+      "label": "Careers",
+      "url": "/employment-opportunities"
     },
     {
-      "url": "/personal-income-tax",
-      "label": "Personal income tax"
+      "label": "Personal income tax",
+      "url": "/personal-income-tax"
     },
     {
-      "url": "/business-tax",
-      "label": "Business tax"
+      "label": "Business tax",
+      "url": "/business-tax"
     },
     {
-      "url": "/accounting",
-      "label": "Accounting and bookkeeping"
+      "label": "Accounting and bookkeeping",
+      "url": "/accounting"
     },
     {
-      "url": "/links",
-      "label": "Forms, Documents, and Links"
+      "label": "Forms, Documents, and Links",
+      "url": "/links"
     },
     {
-      "url": "/contact",
-      "label": "Contact"
+      "label": "Resources",
+      "url": "/resources"
     },
     {
-      "url": "/privacy-statement",
-      "label": "Privacy statement"
+      "label": "Contact",
+      "url": "/contact"
     },
     {
-      "url": "/advisory",
-      "label": "Advisory services"
+      "label": "Privacy statement",
+      "url": "/privacy-statement"
     },
     {
-      "url": "/meet-the-team",
-      "label": "Meet the team"
+      "label": "Advisory services",
+      "url": "/advisory"
+    },
+    {
+      "label": "Meet the team",
+      "url": "/meet-the-team"
     }
   ],
   "cta": {
