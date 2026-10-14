@@ -2,7 +2,7 @@
 title: "Advisory services | RML and Associates CPAs LLC"
 url: "/services/advisory"
 meta_title: "CPA Advisory Services in Laramie, WY | RML & Associates"
-meta_description: "Laramie, WY CPA advisory for business formation, succession and estate planning, plus farms, real estate, restaurants, professional services and non-profits. Book a free consultation."
+meta_description: "Laramie, WY CPA advisory for business formation, succession and estate planning, plus farms, real estate, restaurants, retail, professional services and non-profits."
 target_keyword: "CPA advisory services Laramie WY"
 secondary_keywords: ["business advisory services Laramie WY","CPA firm advisory services near me","real estate tax advisory Laramie WY","non-profit financial advisory Laramie WY","CPA for non-profit organizations near me","business strategy consulting CPA Wyoming","outsourced CFO services Laramie WY"]
 canonical_url: "https://rmlcpas.com/services/advisory"
