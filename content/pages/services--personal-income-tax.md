@@ -66,9 +66,7 @@ A: Yes. The first consultation is free. We'll talk through your situation, expla
 <!-- block: cta-banner | variant: image-bg | image: laramie-consultation.jpg | alt: "Client and CPA shaking hands after a tax consultation meeting" | query: "client accountant handshake consultation meeting" -->
 ## Start with a free consultation
 
-Need a tax preparer near you in Laramie? Book a free consultation through our [contact page](/contact) or call (307) 755-1040. Have your prior-year return and your income forms handy, such as W-2s and 1099s. Ready to send paperwork? Use Submit Documents to share it securely.
-
-After we connect, you'll hear what we need, what it will involve, and when to expect your return. [Schedule a consultation](/contact).
+Need a tax preparer near you in Laramie? Book a free consultation or call (307) 755-1040. After we connect, you'll hear what we need, what it will involve, and when to expect your return. [Schedule a consultation](/contact).
 
 ---
 ## SEO & AIO Metadata
