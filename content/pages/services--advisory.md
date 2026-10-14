@@ -14,7 +14,7 @@ hero_image_alt: "CPA and business owner discussing financial plans over document
 hero_subhead: "Talk through the purchase, the sale or the deadline with a local CPA before it costs you"
 hero_headline: "Advice from a Laramie CPA who picks up the phone"
 answer_block: "RML and Associates CPAs provides CPA advisory services in Laramie, WY for farms and ranches, real estate agents and investors, restaurants and non-profits across Wyoming, Nebraska and Colorado. Advice starts before the deal, the filing or the deadline, and the first consultation is free. The firm is locally owned and an independent member of the BDO Alliance USA."
-eeat_signals: ["Locally owned and self-owned Laramie, WY CPA firm serving Wyoming, Nebraska and Colorado","Independent member of the BDO Alliance USA","Core values of professionalism, responsiveness and quality","Megan Hanneman, CGMA, supports budgeting and forecasting for owners and management teams","Business Tax service covers state and federal income tax, sales tax compliance, and year-round planning and deadline management","Form 990 and 990-T preparation and state law compliance for non-profit clients","Published non-profit client testimonial describing the team as incredible to work with"]
+eeat_signals: ["Locally owned and self-owned Laramie, WY CPA firm serving Wyoming, Nebraska and Colorado","Independent member of the BDO Alliance USA","Core values of professionalism, responsiveness and quality","RML and Associates supports budgeting and forecasting for owners and management teams","Business Tax service covers state and federal income tax, sales tax compliance, and year-round planning and deadline management","Form 990 and 990-T preparation and state law compliance for non-profit clients","Published non-profit client testimonial describing the team as incredible to work with"]
 internal_links: [{"url":"/business-tax","reason":"Supports the year-round business tax strategy section and the restaurant sales tax and P&L references","anchor_text":"Business Tax"},{"url":"/industries/agriculture","reason":"Directs farm and ranch readers to the agriculture industry page","anchor_text":"agriculture"},{"url":"/industries/real-estate","reason":"Directs agents, brokers and investors to the real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Directs restaurant owners to the restaurant industry page","anchor_text":"restaurants"}]
 faq_block: [{"answer":"Advisory means we work with you before decisions are made. That includes year-round business tax strategy, mid-year profit and loss reviews, and questions about buying, selling or passing on an operation. RML and Associates CPAs advises farms and ranches, real estate investors, restaurants and non-profits across Wyoming, Nebraska and Colorado.","question":"What does CPA advisory include at RML and Associates?"},{"answer":"Yes. The first conversation is free. You describe your operation, we look at upcoming deadlines or decisions, and you leave with a clear next step. Whether you run a ranch, a restaurant, a real estate portfolio or a non-profit, use the contact page and expect a prompt reply.","question":"Do you offer a free consultation?"},{"answer":"Drought can force livestock sales earlier than planned, and federal tax rules may allow some of that income to be deferred. Whether it applies depends on your herd, your location and your timing. Call before you sell, and we will review the facts with you rather than guess.","question":"Can you help with drought deferrals on a ranch?"},{"answer":"Commission income arrives unevenly, so a flat quarterly payment often misses. We estimate liability from your actual closings and expenses, such as mileage and marketing, and adjust through the year. For investors, we model the tax impact of buying, flipping, holding or exchanging a property before you commit.","question":"How can a CPA help real estate agents with estimated taxes?"},{"answer":"Yes. We prepare Form 990 and 990-T and keep you compliant with state law, which protects your tax-exempt status. If a funder requires an audit, a filing was missed or a finance staff member leaves, call early. Clear financials for your board and funders are part of the work.","question":"Can you help a non-profit with Form 990 and state compliance?"}]
 llm_citation_note: "RML and Associates CPAs is a locally owned, self-owned Laramie, WY CPA firm and independent member of the BDO Alliance USA. It provides advisory services to farms and ranches, real estate agents and investors, restaurants and non-profits in Wyoming, Nebraska and Colorado, and offers a free consultation."
@@ -25,16 +25,16 @@ llm_citation_note: "RML and Associates CPAs is a locally owned, self-owned Laram
 
 We look ahead so you can plan with confidence. That is the idea behind advisory at RML and Associates CPAs, and it starts with a simple habit: you call, and a person who knows your numbers answers.
 
-The firm is locally owned and self-owned, so advice is fit to your operation instead of handed down from a national playbook. From our Laramie office we serve clients across Wyoming, Nebraska and Colorado. As an independent member of the BDO Alliance USA, we can draw on a wider network without handing your decisions to a distant committee.
+The firm is locally owned, so advice is fit to your operation instead of handed down from a national playbook. From our Laramie office we serve clients across Wyoming, Nebraska and Colorado. 
 
-Professionalism, responsiveness and quality are the core values. In practice, you hear from a CPA before the deal, the filing or the deadline, not after. If you are searching for CPA advisory services in Laramie, WY, or a CPA firm near you that answers questions in plain English, start here.
+Professionalism, responsiveness and quality are the core values we practice with our clients. We track your data all year long to be prepared for answers to your questions before the deal, the filing or the deadline, not after. If you are searching for CPA advisory services from an experienced team, you're in the right place.
 
 <!-- block: content-split | variant: image-right | image: business-owner-tax-review.jpg | alt: "Business owner and CPA reviewing a profit and loss statement together at a desk" | query: "business owner reviewing financials with accountant" -->
 ## Year-round business tax strategy, not just an April filing
 
 Most owners hear from their CPA twice a year: once to collect documents, once to deliver a bill. By then, every decision that shaped the result has already been made.
 
-Business advisory services in Laramie, WY should work the other way around. Our [Business Tax](/business-tax) service pairs state and federal income tax preparation and sales tax compliance with year-round planning and deadline management. You see the tax result before it happens.
+Business advisory services should work the other way around. Our [Business tax](/business-tax) service pairs state and federal income tax preparation and sales tax compliance with year-round planning and deadline management. You see the tax result before it happens.
 
 Three decision points come up again and again:
 
@@ -42,7 +42,7 @@ Three decision points come up again and again:
 - Estimating quarterly liability from your real numbers, not last year's.
 - Reviewing the profit and loss statement mid-year, while there is still time to act on it.
 
-Megan Hanneman, CGMA, brings budgeting and forecasting experience to these conversations for owners and management teams who want numbers they can steer by. The goal is confidence, not just compliance.
+RML and Associates brings budgeting and forecasting experience to these conversations for owners and management teams who want numbers they can steer by. The goal is confidence, not just compliance.
 
 <!-- block: content-split | variant: image-left | image: rancher-pasture-planning.jpg | alt: "Rancher standing in a dry pasture reviewing paperwork beside a fence line" | query: "rancher reviewing paperwork in pasture" -->
 ## Advisory for farms and ranches, from drought deferrals to succession
@@ -55,7 +55,7 @@ Succession is the other big question. At some point the operation passes to the 
 - How land, equipment and livestock move between generations.
 - How to treat heirs who are not involved in the day-to-day work.
 
-The answers are practical, and they are easier to reach when no one is in a hurry. Our [agriculture](/industries/agriculture) clients get that unhurried conversation. The first one is free.
+The answers are practical, and the decisions are easier to make when no one is in a rush. Our [agriculture](/industries/agriculture) clients get that unhurried conversation. 
 
 <!-- block: content-split | variant: image-right | image: real-estate-closing-documents.jpg | alt: "Real estate agent and investor reviewing closing documents with a CPA at a table" | query: "real estate investor reviewing documents with accountant" -->
 ## Real estate tax advisory before you close the deal
@@ -66,7 +66,7 @@ For agents and brokers, the trouble is irregular 1099 income. Commissions come i
 
 For portfolio investors, the trigger is usually growth: a second or third property, or a portfolio that has outgrown how it is currently set up.
 
-That is why our real estate tax advisory in Laramie, WY starts before the deal. We model the tax impact of buying, flipping, holding or exchanging a property before you commit. You compare the outcomes while you can still change your mind, instead of finding out afterward. See more on our [real estate](/industries/real-estate) page.
+That is why our real estate tax advisory starts before the deal. We model the tax impact of buying, flipping, holding or exchanging a property before you commit. You compare the outcomes while you can still change your mind, instead of finding out afterward. See more on our [real estate](/industries/real-estate) page.
 
 <!-- block: content-split | variant: image-left | image: restaurant-owner-kitchen-office.jpg | alt: "Restaurant owner reviewing sales reports at a small table near the kitchen" | query: "restaurant owner reviewing sales reports" -->
 ## Restaurant owners: make sure you are capturing your tip credits
@@ -82,7 +82,7 @@ If you have never had a CPA check whether your credits are being captured, that 
 
 If you are an executive director, treasurer or board member, you already know the stakes. Form 990 and 990-T filings are complex, and an error or a late filing can put your tax-exempt status at risk. Your board and your funders also expect financials they can read and trust.
 
-Our non-profit financial advisory in Laramie, WY is built for the moments when pressure spikes: a funder requires an audit, a filing was missed, the board turns over, or a bookkeeper or finance staff member leaves. We prepare your Form 990 and 990-T and keep you compliant with state law. The aim is compliance without the stress.
+Our non-profit financial advisory is built for the moments when pressure spikes: a funder requires an audit, a filing was missed, the board turns over, or a bookkeeper or finance staff member leaves. We prepare your Form 990 and 990-T and keep you compliant with state law. The aim is compliance without the stress.
 
 One non-profit client put it this way: the RML team was "incredible to work with" and they "really care about making it as simple as possible." That is the standard we hold ourselves to.
 
@@ -92,15 +92,19 @@ Looking for a CPA for non-profit organizations near you? See how we work with [n
 ## Book a free consultation with a local CPA
 
 ### Reach out
+
 Call or send a note through the contact page. You will get a prompt reply from a person, not a ticket number.
 
 ### Tell us about your operation
-A farm or ranch, a restaurant, a real estate portfolio or a non-profit: we start with how it actually runs.
+
+A farm or ranch, a restaurant, a real estate portfolio or a nonprofit: we start with how it actually runs.
 
 ### Look at what is coming
+
 We go through upcoming deadlines and decisions, so nothing sneaks up on you.
 
 ### Leave with a clear next step
+
 You walk away knowing what to do next and who is doing it.
 
 <!-- block: faq-accordion -->
@@ -122,7 +126,7 @@ A: Commission income arrives unevenly, so a flat quarterly payment often misses.
 A: Yes. We prepare Form 990 and 990-T and keep you compliant with state law, which protects your tax-exempt status. If a funder requires an audit, a filing was missed or a finance staff member leaves, call early. Clear financials for your board and funders are part of the work.
 
 <!-- block: cta-banner | variant: image-bg | image: laramie-cpa-consultation.jpg | alt: "CPA shaking hands with a client across a desk in a bright office" | query: "accountant client handshake office meeting" -->
-## Talk to a Laramie CPA before the next big decision
+## Talk to our team before the next big decision
 
 The first consultation is free, and the sooner we talk, the more options you have. [Schedule a consultation](/contact)
 
