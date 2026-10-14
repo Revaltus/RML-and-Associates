@@ -1,11 +1,11 @@
 ---
 title: "Forms, Documents, and Links | RML and Associates CPAs LLC"
-url: "/links"
+url: "/resources/links"
 meta_title: "Tax Forms and Documents Laramie WY | RML and Associates CPAs"
 meta_description: "Find tax forms and documents in Laramie, WY by client type: personal, business, ranching, restaurants, real estate and non-profits. Can't find it? Call us."
 target_keyword: "tax forms and documents Laramie WY"
 secondary_keywords: ["CPA firm forms Laramie WY","RML and Associates CPAs forms","non-profit tax forms Laramie WY","real estate tax documents Laramie WY","Laramie CPA useful links","Wyoming Department of Revenue forms","IRS forms for Wyoming individuals","tax preparation checklist Laramie WY"]
-canonical_url: "https://rmlcpas.com/links"
+canonical_url: "https://rmlcpas.com/resources/links"
 schema_markup: "LocalBusiness"
 hero: "page-header"
 hero_subhead: "Find the forms and links you need by client type, or call us and we'll point the way"
