@@ -24,7 +24,13 @@
     },
     {
       "label": "Industries",
-      "url": "/"
+      "url": "/",
+      "children": [
+        {
+          "label": "Agriculture",
+          "url": "/agriculture"
+        }
+      ]
     },
     {
       "label": "Careers",
