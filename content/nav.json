@@ -19,12 +19,12 @@
         {
           "label": "Personal income tax",
           "url": "/services/personal-income-tax"
+        },
+        {
+          "label": "Industries",
+          "url": "/services/industries"
         }
       ]
-    },
-    {
-      "label": "Industries",
-      "url": "/industries"
     },
     {
       "label": "About",
