@@ -10,4 +10,4 @@ old_url,new_url,status_code,reason
 /meet-the-team,/about/meet-the-team,301,Nested via nav editor
 /employment-opportunities,/about/employment-opportunities,301,Nested via nav editor
 /links,/resources/links,301,Nested via nav editor
-/industries,/services/industries,301,Nested via nav editor
+/services/industries,/industries,301,Nested via nav editor
