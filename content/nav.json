@@ -23,6 +23,10 @@
       ]
     },
     {
+      "label": "Industries",
+      "url": "/industries"
+    },
+    {
       "label": "Careers",
       "url": "/employment-opportunities"
     },
@@ -41,10 +45,6 @@
     {
       "label": "Meet the team",
       "url": "/meet-the-team"
-    },
-    {
-      "label": "Industries",
-      "url": "/industries"
     }
   ],
   "cta": {
