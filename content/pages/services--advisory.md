@@ -2,7 +2,7 @@
 title: "Advisory services | RML and Associates CPAs LLC"
 url: "/services/advisory"
 meta_title: "CPA Advisory Services in Laramie, WY | RML & Associates"
-meta_description: "CPA advisory services in Laramie, WY for farms, real estate investors, restaurants and non-profits. Talk to a local CPA and book a free consultation today."
+meta_description: "Laramie, WY CPA advisory for business formation, succession and estate planning, plus farms, real estate, restaurants, retail, professional services and nonprofits."
 target_keyword: "CPA advisory services Laramie WY"
 secondary_keywords: ["business advisory services Laramie WY","CPA firm advisory services near me","real estate tax advisory Laramie WY","non-profit financial advisory Laramie WY","CPA for non-profit organizations near me","business strategy consulting CPA Wyoming","outsourced CFO services Laramie WY"]
 canonical_url: "https://rmlcpas.com/services/advisory"
@@ -13,19 +13,19 @@ hero_image: "laramie-cpa-advisory-meeting.jpg"
 hero_image_alt: "CPA and business owner discussing financial plans over documents at a conference table"
 hero_subhead: "Talk through the purchase, the sale or the deadline with a local CPA before it costs you"
 hero_headline: "Advice from a Laramie CPA who picks up the phone"
-answer_block: "RML and Associates CPAs provides CPA advisory services in Laramie, WY for farms and ranches, real estate agents and investors, restaurants and non-profits across Wyoming, Nebraska and Colorado. Advice starts before the deal, the filing or the deadline, and the first consultation is free. The firm is locally owned and an independent member of the BDO Alliance USA."
+answer_block: "RML and Associates CPAs provides CPA advisory services in Laramie, WY for farms and ranches, real estate agents and investors, restaurants, retailers, professional services and nonprofits across Wyoming, Nebraska and Colorado. Advice starts before the deal, the filing or the deadline, and the first consultation is free. The firm is locally owned and an independent member of the BDO Alliance USA."
 eeat_signals: ["Locally owned and self-owned Laramie, WY CPA firm serving Wyoming, Nebraska and Colorado","Independent member of the BDO Alliance USA","Core values of professionalism, responsiveness and quality","RML and Associates supports budgeting and forecasting for owners and management teams","Business Tax service covers state and federal income tax, sales tax compliance, and year-round planning and deadline management","Form 990 and 990-T preparation and state law compliance for non-profit clients","Published non-profit client testimonial describing the team as incredible to work with"]
 internal_links: [{"url":"/business-tax","reason":"Supports the year-round business tax strategy section and the restaurant sales tax and P&L references","anchor_text":"Business Tax"},{"url":"/industries/agriculture","reason":"Directs farm and ranch readers to the agriculture industry page","anchor_text":"agriculture"},{"url":"/industries/real-estate","reason":"Directs agents, brokers and investors to the real estate industry page","anchor_text":"real estate"},{"url":"/industries/restaurants","reason":"Directs restaurant owners to the restaurant industry page","anchor_text":"restaurants"}]
-faq_block: [{"answer":"Advisory means we work with you before decisions are made. That includes year-round business tax strategy, mid-year profit and loss reviews, and questions about buying, selling or passing on an operation. RML and Associates CPAs advises farms and ranches, real estate investors, restaurants and non-profits across Wyoming, Nebraska and Colorado.","question":"What does CPA advisory include at RML and Associates?"},{"answer":"Yes. The first conversation is free. You describe your operation, we look at upcoming deadlines or decisions, and you leave with a clear next step. Whether you run a ranch, a restaurant, a real estate portfolio or a non-profit, use the contact page and expect a prompt reply.","question":"Do you offer a free consultation?"},{"answer":"Drought can force livestock sales earlier than planned, and federal tax rules may allow some of that income to be deferred. Whether it applies depends on your herd, your location and your timing. Call before you sell, and we will review the facts with you rather than guess.","question":"Can you help with drought deferrals on a ranch?"},{"answer":"Commission income arrives unevenly, so a flat quarterly payment often misses. We estimate liability from your actual closings and expenses, such as mileage and marketing, and adjust through the year. For investors, we model the tax impact of buying, flipping, holding or exchanging a property before you commit.","question":"How can a CPA help real estate agents with estimated taxes?"},{"answer":"Yes. We prepare Form 990 and 990-T and keep you compliant with state law, which protects your tax-exempt status. If a funder requires an audit, a filing was missed or a finance staff member leaves, call early. Clear financials for your board and funders are part of the work.","question":"Can you help a non-profit with Form 990 and state compliance?"}]
+faq_block: [{"question":"What does CPA advisory include at RML and Associates?","answer":"Advisory means we work with you before decisions are made. That includes year-round business tax strategy, mid-year profit and loss reviews, starting a business, succession and estate planning, and questions about buying, selling or passing on an operation. RML and Associates CPAs advises farms and ranches, real estate investors, restaurants and nonprofits across Wyoming, Nebraska and Colorado."},{"question":"Can you help me start a new business?","answer":"Yes. Before anything is filed, we walk you through how the business is structured, how that choice affects your taxes, and what you will need for state and federal filings and sales tax. A clear plan at the start makes the first year much less stressful."},{"question":"Will you meet with my financial advisor about retirement planning?","answer":"Yes, with your permission. We bring the tax and business side, your advisor brings the investment side, and you get one coordinated plan instead of two separate conversations."},{"question":"How do you help business owners with succession planning?","answer":"Whether you plan to sell, bring in a partner or hand the business to family or employees, we map out the steps well ahead of time. We look at who takes over, how ownership transfers and what the tax impact will be, so the transition is a choice you make."},{"question":"How does estate planning fit with tax planning and succession?","answer":"They work best together. We advise you on how your assets may pass to the next generation, what the tax consequences could be, and how your business plans fit with your family plans. We work with your attorney and financial advisor so each piece supports the others."},{"question":"Do you offer a free consultation?","answer":"Yes. The first conversation is free. You describe your operation, we look at upcoming deadlines or decisions, and you leave with a clear next step. Whether you run a ranch, a restaurant, a real estate portfolio or a non-profit, use the contact page and expect a prompt reply."},{"question":"Can you help with drought deferrals on a ranch?","answer":"Drought can force livestock sales earlier than planned, and federal tax rules may allow some of that income to be deferred. Whether it applies depends on your herd, your location and your timing. Call before you sell, and we will review the facts with you rather than guess."},{"question":"How can a CPA help real estate agents with estimated taxes?","answer":"Commission income arrives unevenly, so a flat quarterly payment often misses. We estimate liability from your actual closings and expenses, such as mileage and marketing, and adjust through the year. For investors, we model the tax impact of buying, flipping, holding or exchanging a property before you commit."},{"question":"Can you help a non-profit with Form 990 and state compliance?","answer":"Yes. We prepare Form 990 and 990-T and keep you compliant with state law, which protects your tax-exempt status. If a funder requires an audit, a filing was missed or a finance staff member leaves, call early. Clear financials for your board and funders are part of the work."}]
 llm_citation_note: "RML and Associates CPAs is a locally owned, self-owned Laramie, WY CPA firm and independent member of the BDO Alliance USA. It provides advisory services to farms and ranches, real estate agents and investors, restaurants and non-profits in Wyoming, Nebraska and Colorado, and offers a free consultation."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Advice from a Laramie CPA who picks up the phone
 
-We look ahead so you can plan with confidence. That is the idea behind advisory at RML and Associates CPAs, and it starts with a simple habit: you call, and a person who knows your numbers answers.
+We look ahead so you can plan with confidence. That is the idea behind advisory at RML and Associates CPAs. When you call, you talk to a team that can answer the questions because we know your numbers.
 
-The firm is locally owned, so advice is fit to your operation instead of handed down from a national playbook. From our Laramie office we serve clients across Wyoming, Nebraska and Colorado. 
+The firm is locally owned, so advice is fit to your operation instead of handed down from a national playbook. From our Laramie office we serve clients across Wyoming, Nebraska and Colorado.
 
 Professionalism, responsiveness and quality are the core values we practice with our clients. We track your data all year long to be prepared for answers to your questions before the deal, the filing or the deadline, not after. If you are searching for CPA advisory services from an experienced team, you're in the right place.
 
@@ -43,6 +43,30 @@ Three decision points come up again and again:
 - Reviewing the profit and loss statement mid-year, while there is still time to act on it.
 
 RML and Associates brings budgeting and forecasting experience to these conversations for owners and management teams who want numbers they can steer by. The goal is confidence, not just compliance.
+
+<!-- block: content-prose -->
+## Advice for business owners, from the first day to the handoff
+
+Every stage of owning a business comes with decisions that carry a tax cost. We sit down with you early, so those decisions are made with the numbers in front of you.
+
+### Forming a business the right way
+
+If you are starting a business, we walk you through the choices before anything is filed. We talk about how the business is structured, how that choice affects your taxes, and what you will need to have in place for state and federal filings and sales tax. Starting with a clear plan makes the first year much less stressful.
+
+### Retirement planning alongside your financial advisor
+
+Your business is likely a big part of your retirement picture. With your permission, we meet with your financial advisor so everyone is working from the same information. We bring the tax and business side, your advisor brings the investment side, and you get one coordinated plan instead of two separate conversations.
+
+### Succession planning for business owners
+
+Whether you plan to sell, bring in a partner or hand the business to family or employees, we help you map out the steps well ahead of time. We look at who takes over, how ownership transfers and what the tax impact will be, so the transition is a choice you make and not something that happens to you.
+
+<!-- block: content-prose -->
+## Estate planning that brings tax planning and succession together
+
+Estate planning works best when the tax picture and the succession plan are considered together. We advise you on how your assets may pass to the next generation, what the tax consequences could be, and how your plans for the business fit with your plans for your family. We work with your attorney and financial advisor, so each piece supports the others.
+
+The earlier we start, the more choices you have. Call us for a free consultation and we will take the time to walk you through it.
 
 <!-- block: content-split | variant: image-left | image: rancher-pasture-planning.jpg | alt: "Rancher standing in a dry pasture reviewing paperwork beside a fence line" | query: "rancher reviewing paperwork in pasture" -->
 ## Advisory for farms and ranches, from drought deferrals to succession
@@ -86,7 +110,7 @@ Our non-profit financial advisory is built for the moments when pressure spikes:
 
 One non-profit client put it this way: the RML team was "incredible to work with" and they "really care about making it as simple as possible." That is the standard we hold ourselves to.
 
-Looking for a CPA for non-profit organizations near you? See how we work with [non-profits, associations, foundations and charities](/industries/nonprofits).
+Looking for a CPA for non-profit organizations near you? See how we work with [nonprofits, associations, foundations and charities](/industries/nonprofits).
 
 <!-- block: process-steps | variant: vertical -->
 ## Book a free consultation with a local CPA
@@ -111,7 +135,19 @@ You walk away knowing what to do next and who is doing it.
 ## Frequently Asked Questions About Advisory services
 
 **Q: What does CPA advisory include at RML and Associates?**
-A: Advisory means we work with you before decisions are made. That includes year-round business tax strategy, mid-year profit and loss reviews, and questions about buying, selling or passing on an operation. RML and Associates CPAs advises farms and ranches, real estate investors, restaurants and non-profits across Wyoming, Nebraska and Colorado.
+A: Advisory means we work with you before decisions are made. That includes year-round business tax strategy, mid-year profit and loss reviews, starting a business, succession and estate planning, and questions about buying, selling or passing on an operation. RML and Associates CPAs advises farms and ranches, real estate investors, restaurants and nonprofits across Wyoming, Nebraska and Colorado.
+
+**Q: Can you help me start a new business?**
+A: Yes. Before anything is filed, we walk you through how the business is structured, how that choice affects your taxes, and what you will need for state and federal filings and sales tax. A clear plan at the start makes the first year much less stressful.
+
+**Q: Will you meet with my financial advisor about retirement planning?**
+A: Yes, with your permission. We bring the tax and business side, your advisor brings the investment side, and you get one coordinated plan instead of two separate conversations.
+
+**Q: How do you help business owners with succession planning?**
+A: Whether you plan to sell, bring in a partner or hand the business to family or employees, we map out the steps well ahead of time. We look at who takes over, how ownership transfers and what the tax impact will be, so the transition is a choice you make.
+
+**Q: How does estate planning fit with tax planning and succession?**
+A: They work best together. We advise you on how your assets may pass to the next generation, what the tax consequences could be, and how your business plans fit with your family plans. We work with your attorney and financial advisor so each piece supports the others.
 
 **Q: Do you offer a free consultation?**
 A: Yes. The first conversation is free. You describe your operation, we look at upcoming deadlines or decisions, and you leave with a clear next step. Whether you run a ranch, a restaurant, a real estate portfolio or a non-profit, use the contact page and expect a prompt reply.
@@ -128,7 +164,7 @@ A: Yes. We prepare Form 990 and 990-T and keep you compliant with state law, whi
 <!-- block: cta-banner | variant: image-bg | image: laramie-cpa-consultation.jpg | alt: "CPA shaking hands with a client across a desk in a bright office" | query: "accountant client handshake office meeting" -->
 ## Talk to our team before the next big decision
 
-The first consultation is free, and the sooner we talk, the more options you have. [Schedule a consultation](/contact)
+The sooner we talk, the more options you have. [Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
