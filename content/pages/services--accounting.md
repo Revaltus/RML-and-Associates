@@ -36,7 +36,7 @@ The details change by operation. For ranchers, we keep records that support drou
 Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services, we help you get up and running by walking you through the setup. When you have questions, our team is here to help with support to keep your payroll process on track.
 
 <!-- block: service-cards | variant: 2-col -->
-## Accounting for non-profits and real estate investors
+## Accounting specialized for your business
 
 ### Non-profit accounting
 icon: Users
@@ -47,6 +47,26 @@ Form 990 and 990-T filings are complex, and an error or a late filing can put yo
 icon: Home
 
 Agents and brokers deal with irregular, commission-based 1099 income that makes estimated taxes hard to predict. Portfolio investors need property-level books in place before a purchase, a flip or an exchange, not after the closing. We set up records that separate each property and each deal, so you see what is earning and what is not. See our [real estate accounting](/industries/real-estate) page for more.
+
+### Agriculture accounting
+icon: Leaf
+
+Farms and ranches run on seasons, weather and thin margins, and your books need to keep up. We keep records that support drought deferral decisions, so a forced livestock sale is documented properly when conditions turn dry. Learn more about accounting for [agriculture and ranching operations](/industries/agriculture).
+
+### Restaurant accounting
+icon: Utensils
+
+Busy kitchens leave little time for the ledger. We track tip credits as they happen, keep your sales and payroll records current, and give you a clear view of what each month actually earned. See our page for [restaurant accounting](/industries/restaurants).
+
+### Retail accounting
+icon: ShoppingBag
+
+Retail owners need to know what is selling and what is left after the bills are paid. We keep your books current all year and prepare monthly reports you can read at a glance. Visit our [retail accounting](/industries/retail) page for more.
+
+### Professional services accounting
+icon: Briefcase
+
+Practices run on time and trust, not on bookkeeping. We handle the monthly reconciling and reporting so you can see how your practice is doing and focus on your clients. Explore [accounting for professional practices](/industries/professional-services).
 
 <!-- block: content-split | variant: image-right | image: cloud-accounting-migration.jpg | alt: "Accountant showing an owner online accounting software on a laptop screen" | query: "accountant cloud accounting software laptop client" -->
 ## How do I move from desktop software to cloud accounting?
