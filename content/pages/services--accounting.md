@@ -66,7 +66,7 @@ Retail owners need to know what is selling and what is left after the bills are 
 ### Professional services accounting
 icon: Briefcase
 
-Professional service businesses run on time and trust, not on bookkeeping. We handle the monthly reconciling and reporting so you can see how your practice is doing and focus on your clients. Explore [accounting for professional practices](/industries/professional-services).
+Professional service businesses run on time and trust, not on bookkeeping. We handle the monthly reconciling and reporting so you can see how your practice is doing and focus on your clients. Explore [accounting for professional ](/industries/professional-services)services.
 
 <!-- block: content-split | variant: image-right | image: cloud-accounting-migration.jpg | alt: "Accountant showing an owner online accounting software on a laptop screen" | query: "accountant cloud accounting software laptop client" -->
 ## How do I move from desktop software to cloud accounting?
