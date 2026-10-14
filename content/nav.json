@@ -45,6 +45,10 @@
     {
       "label": "Meet the team",
       "url": "/meet-the-team"
+    },
+    {
+      "label": "About",
+      "url": "/about"
     }
   ],
   "cta": {
