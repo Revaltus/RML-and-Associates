@@ -638,113 +638,105 @@ Call (307) 755-1040 or send a note through our [contact form](/contact). A real 
 
 ## Resources
 
-### Burnout isn't a business strategy: why self-care belongs in your nonprofit's growth plan
-URL: /resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of
+### Business credit card rewards strategy for Laramie non-profits
+URL: /resources/business-credit-card-rewards-a-financial-strategy-for-busine
 
-The executive director of a Laramie nonprofit rarely misses a board meeting. What gets missed is lunch, a weekend, and, somewhere around April, the extension request for the Form 990. Nobody planned to skip it. The person who runs the programs, writes the grants, answers the funder emails and approves the invoices simply ran out of attention.
+Most Laramie non-profits already have a business credit card. Somebody on staff opened it for conference registrations or software subscriptions, and the rewards have been piling up ever since without anyone deciding what to do with them. A treasurer finds out at year-end that the organization is sitting on 80,000 points, a bookkeeper wonders where they belong in the books, and a board member asks whether this is a tax problem. It can be a small win or a small mess, depending on a few choices you make early.
 
-That is the financial case for self-care for business owners, and it applies just as much to people who run non-profit organizations. A nonprofit leader is an owner in every way that matters to the books: you make the spending calls, you sign off on the numbers, and you answer for the mistakes. When your judgment wears thin, the organization pays for it.
+This post walks through how to treat card rewards as a deliberate cash-flow tool for a non-profit: which card structure fits which spending, how the tax treatment generally works, and where grant rules and board oversight come in.
 
-This post is not medical advice. We are CPAs, not therapists. What we can speak to is what tired decision-making does to a set of financial statements, because we see it up close.
+## Rewards belong in the board's conversation
 
-## Why tired leaders make expensive mistakes
+A rewards card is a financing and cash-management decision. It is not a perk for whoever happens to hold the plastic.
 
-Burnout rarely arrives as a dramatic collapse. It shows up as small deferrals. The bank reconciliation waits another week. The grant report goes in on deadline day instead of three days early. A restricted gift gets deposited and nobody codes it correctly.
+Here is the basic math. Say your organization runs $10,000 a month through cards: program supplies, software, travel to a regional conference, event deposits. That is $120,000 a year. A flat 1.5% cash-back card returns $1,800. A card with a $95 annual fee and 3% back on your biggest category might return more, or it might return less if your spending is spread thin. Neither answer is obvious until someone looks at twelve months of statements.
 
-Each of those is cheap in isolation. Stacked together, they become the problems that put a nonprofit on a funder's watch list:
+The bigger lever is timing. A card with a monthly billing cycle and a grace period gives you roughly 25 to 55 days between a purchase and the cash leaving your bank account. For an organization waiting on a reimbursement from a funder, that float can smooth out a tight month. It only works if the balance is paid in full. Interest at typical card rates will erase a year of rewards in one or two billing cycles, so a non-profit that carries a balance should skip the rewards conversation and fix the cash flow first.
 
-- A late or incomplete Form 990, which brings daily IRS penalties.
-- Three missed annual filings in a row, which revokes tax-exempt status automatically.
-- Restricted funds spent on general operations because no one tracked the restriction.
-- A funder asking for an audit and finding the records are not ready.
+## Three Laramie non-profits, three different cards
 
-The revocation rule is the one that surprises people. The IRS does not send a warning shot after the second year. If an organization does not file for three consecutive years, exempt status ends. Getting it back means a new application and, often, months of explaining. A leader running on four hours of sleep and a half-finished to-do list is exactly the person who lets a filing slide twice and then loses track of the third.
+The right card follows the spending pattern. These are illustrative examples, not specific clients, but the patterns are common.
 
-The [SBA's guidance on managing your business](https://www.sba.gov/business-guide/manage-your-business) makes the same point from the operations side: sustainable organizations build routines that do not depend on one person's heroics. Much of it carries over to a nonprofit's back office.
-
-## What burnout looks like on a nonprofit's books
-
-You do not need a diagnosis to spot it. The financial symptoms tend to show up before the personal ones are admitted.
-
-| What you notice | What is often behind it | What to do about it |
+| Organization type | Typical card spending | Card structure that tends to fit |
 |---|---|---|
-| Monthly financials arrive after the board meeting | The leader is the only reviewer and keeps pushing it | Set a fixed monthly close date and a second reviewer |
-| Grant reports go in on the last day | Too many roles sit with one person | Calendar internal deadlines a week ahead of the funder's |
-| Cash gets tight in the same months every year | No forecast, so seasonal gaps are a surprise | Build a 12-month cash forecast and update it quarterly |
-| Nobody can say how much is restricted | Gifts are coded in a hurry | Track restrictions by fund and review them monthly |
-| Only one person knows the passwords and processes | The bookkeeper left, or was never backed up | Write a short handoff document and name a backup |
+| Youth or education program | Supplies, field trips, software, snacks and event materials | Flat-rate cash back, no annual fee, many small purchases |
+| Arts or community venue | Event deposits, marketing, vendor payments, ticketing fees | Higher rewards in one or two categories, if the volume justifies a fee |
+| Association with a travel budget | Conference travel, lodging, member meetings | Travel card with a modest fee, if airfare and hotels exceed about $15,000 a year |
 
-If three of those rows sound familiar, that is not a personal failing. It is a workload problem, and workload problems have workable fixes.
+A few rules of thumb hold across all three.
 
-## A scenario we see often in Laramie
+**Count the fee against the rewards.** An annual fee of $95 needs about $6,300 a year in spending at 1.5% just to break even, before you count any bonus categories. Many non-profits are better off with a no-fee card.
 
-Picture a Laramie nonprofit with a $450,000 annual budget, two full-time staff and a volunteer board. The part-time bookkeeper moves away in February. The executive director, who is already writing two grant applications, takes over data entry "just until we hire someone."
+**Be cautious with sign-up bonuses.** A bonus that requires $4,000 of spending in three months can push an organization to pull purchases forward, which defeats the point of managing cash.
 
-By May, no one has posted the March or April bank activity. The Form 990 is due May 15 for a calendar-year organization, and nobody has filed Form 8868 to extend it. An extension is automatic and adds six months, but only if someone files it. A funder emails to ask for year-to-date financials before releasing the second half of a grant, and the honest answer is that they do not exist yet.
+**Prefer cash back over points for most organizations.** Points are harder to value, harder to record, and easier to lose track of when staff turn over. Cash back or statement credits create a clean, dated entry.
 
-Nothing in that story is about incompetence. It is about one person holding five jobs. A bookkeeper leaving is one of the most common moments we get a call from a nonprofit, and it is better to call before the backlog builds than after.
+**Skip personal-style perks.** Airport lounge access and companion tickets benefit one person. A rewards program that mostly serves the cardholder invites questions the board does not want to field.
 
-## Self-care as internal control
+## Rewards are usually a price reduction, not income
 
-Accountants think about internal controls: the checks that keep one person's error or absence from damaging the organization. Rest belongs in that category.
+Business owners ask whether card rewards are taxable. For purchases, the general view is that cash back or points earned from spending are treated as a rebate or discount on what you bought, not as income. Your cost goes down slightly, and nothing new shows up on a return.
 
-A leader who takes a real week off has to document what they do. Someone else has to know where the bank login lives. A backup signer has to exist. Those are the same safeguards an auditor looks for, and you get them as a side effect of taking a vacation.
+A few situations are different, and they are worth knowing before you act:
 
-The reverse is also true. If the organization cannot function for five days without you, that is a control weakness. It is a risk to the board and to your funders, and it deserves the same attention as a missing approval signature.
+- **Bonuses with no purchase requirement.** A deposit bonus or a payment for simply opening an account can be treated as income, and the issuer may send a Form 1099-MISC.
+- **Co-branded or affinity cards.** If a card carries your organization's name and the issuer pays you for each swipe by members or donors, that payment is a different animal. Royalty-type income often falls outside unrelated business income, but the details matter. A Form 990-T question deserves a conversation before you sign anything.
+- **Personal use.** If an employee earns points on organization-paid travel and keeps them, you have created a personal benefit question. A written policy fixes that.
 
-So here is the reframe we offer our clients. Protecting your attention, sleep and time away is not a reward for finishing the work. It is part of the cost of doing the work accurately.
+For general background on federal small-entity guidance, the [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) is a good starting point. For anything specific to your exempt status, ask a CPA who handles non-profit returns every week.
 
-## Habits that protect your calendar and your cash
+## Check your grant terms before you redeem a point
 
-None of these require a retreat or a new app. They require a decision and a standing reminder.
+This is where a non-profit differs most from a for-profit company. If a grant or contract pays for a purchase, the rewards from that purchase may not be yours to keep.
 
-**Put every compliance date on a shared calendar.** That means the Form 990 or 990-T due date, the extension date, state filings, and grant report deadlines. Share the calendar with your board chair and treasurer so the dates do not live only in your head.
+Many federal awards and some foundation agreements treat rebates, discounts and similar credits as reductions of the cost charged to the grant. If you bought $6,000 of program supplies on a card with 2% back, the funder may expect the cost to net out to $5,880. Interest and late fees are typically unallowable costs as well, so a card balance carried past the due date can leave you paying out of unrestricted funds.
 
-**Hold a 45-minute monthly financial review.** Meet with the treasurer, look at the statements, and ask three questions: What changed, what is restricted, and what is coming due? Short and regular beats long and rare.
+The practical fix is simple. Before you route grant-funded spending to a rewards card, read the award terms and ask the program officer if the language is unclear. Some organizations keep grant-funded purchases on a separate no-rewards card or pay those vendors by check or ACH, and use the rewards card only for unrestricted spending. That keeps the audit trail clean when a funder asks for support.
 
-**Write the handoff before you need it.** One page covering who pays bills, how deposits are coded, where the records are kept, and who to call. If the bookkeeper or finance lead leaves, the next person starts from paper instead of guesswork.
+If you are deciding between this and other ways of spending organizational dollars, our posts on [leasing versus buying a vehicle](/resources/auto-leasing-vs-buying-which-makes-more-sense) and [sizing insurance coverage](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) use the same lens: match the choice to cash flow and funder rules, not to a generic checklist.
 
-**Cut the recurring noise.** Every unused software seat and forgotten subscription is a small decision you keep paying for. Our post on [subscription creep at a Laramie nonprofit](/resources/take-back-control-of-subscription-creep) walks through a quick audit that gives back both dollars and mental space.
+## Write a card policy the board can approve
 
-**Block time off around the grant cycle, not in spite of it.** Look at when your big deadlines fall and schedule real time away in the quiet weeks. Tell the board the dates in January. A planned absence is a plan. An unplanned collapse in November is a crisis.
+A two-page policy prevents most of the problems above. Boards that approve one tend to avoid surprises when a bookkeeper leaves or a new treasurer steps in, which are two of the most common moments when card practices fall apart.
 
-## Boards share the responsibility
+A workable policy covers:
 
-Board members often admire a leader who never takes a day off. That admiration is misplaced. A nonprofit whose director cannot step away is carrying concentration risk, and the board is responsible for managing it.
+1. **Who may hold a card** and the monthly limit for each holder, for example $2,500 for a program director and $750 for a volunteer coordinator.
+2. **What the card may buy,** and what it may not (personal items, cash advances, anything restricted by a grant).
+3. **Who owns the rewards.** The organization does. Individual cardholders do not.
+4. **Documentation.** An itemized receipt or a short written explanation for every charge, submitted within a set number of days.
+5. **Payment.** The balance is paid in full each month from a designated account, approved by someone other than the cardholder.
+6. **Redemption.** Rewards are redeemed on a set schedule, such as quarterly, and credited to a specific account.
 
-A few practical steps for board chairs and treasurers:
+That last point matters more than it seems. Rewards left to pile up for three years create a liability of attention, and they can expire or vanish if the program changes.
 
-- Ask for the monthly financials by a set date, and ask the question "Who covers if you are out?" once a year.
-- Approve a modest budget line for outside help during busy periods, such as grant season or the annual audit.
-- Make it normal for staff to use vacation time. Leaders watch what the board does, not what the handbook says.
+## Record rewards the same way every month
 
-When turnover hits the board itself, the same logic applies. New treasurers inherit whatever process exists. If the process is "the director remembers," the new treasurer has nothing to review.
+The tax treatment is rarely the hard part. Reconciliation is.
 
-## How a CPA lightens the load
+A tidy approach looks like this. Each month, reconcile the card statement to the books, coding every charge to the correct program, grant and expense category. When rewards post as a statement credit, record them as a reduction of the related expense, or in a designated account if your policy says so, and be consistent year to year. For restricted funds, make sure the credit lands in the same fund as the original purchase.
 
-Part of what we do for Laramie non-profit organizations is simply take pieces off your plate so your attention goes where only you can apply it. Our [nonprofit work](/industries/nonprofits) covers Form 990 and 990-T preparation, board-ready financial statements, and audit preparation, so a funder's request does not become a scramble.
+Cloud accounting software helps here. Bank and card feeds into a platform like QuickBooks Online mean charges arrive already dated and matched, and Liz Powers, CPA, who works with clients moving from desktop software to cloud platforms, can set up rules so recurring vendors are coded the same way each time. Our [accounting team](/accounting) handles that setup for Laramie organizations that would rather spend their evenings on programs than on spreadsheets.
 
-On the forward-looking side, [advisory support](/advisory) helps you see the year before it happens. Megan Hanneman, CGMA, works with management teams on budgeting, forecasting and KPI dashboards, which means a board can look at one page and know whether cash will hold through the slow months. Liz Powers, CPA, helps organizations move off aging desktop software to cloud accounting, so a treasurer can see current numbers without waiting for the director to export a file.
+If you are not sure where your current setup stands, a quick review of three months of card statements usually shows the answer: how much you spend, what you are earning, what you are paying in fees, and whether anything touches a grant.
 
-Because RML and Associates is locally owned and independent, with membership in the BDO Alliance USA, the people you talk to are the people doing the work. Responsiveness is one of our core values, which matters most when a deadline is close and your inbox is full.
+## Common Questions
 
-## Common questions
+**Are credit card rewards taxable for a non-profit?**
 
-**Is self-care for business owners really a financial issue?**
+Rewards earned from purchases are generally treated as a price reduction, not income. Sign-up bonuses that require no spending, and payments from a co-branded card that uses your organization's name, can be treated differently. Check with your CPA before accepting either, since they may affect Form 990-T reporting.
 
-Yes. Fatigue raises the odds of missed deadlines, miscoded transactions and rushed spending decisions, and each one has a cost. For a nonprofit, the worst case is lost tax-exempt status after three years of unfiled returns. Rest protects the judgment that keeps the organization compliant and funded.
+**How do I choose a business credit card for a non-profit?**
 
-**What are the early signs of business owner burnout in a nonprofit?**
+Start with twelve months of actual card spending. If purchases are small and spread across many categories, a flat-rate cash-back card with no annual fee usually wins. A fee card only makes sense when one category, like conference travel, is large enough to cover the fee several times over.
 
-Look for financial statements that arrive late, grant reports filed on deadline day, and one person who holds every login and process. These show up in the books before they show up in conversation. If two or three apply, it is time to redistribute work or bring in outside help.
+**Can we keep rewards from grant-funded purchases?**
 
-**How can a nonprofit leader take time off without risking compliance?**
+Not always. Many federal awards and some foundation agreements treat rebates and discounts as credits against the cost charged to the grant. Read the award terms first, and when in doubt, put grant-funded spending on a separate no-rewards card or pay by check or ACH.
 
-Put every filing and grant deadline on a shared calendar, name a backup signer, and write a one-page handoff covering bill payment, deposits and records. Then schedule time away in a quiet stretch. A CPA can cover Form 990 preparation and monthly reviews while you are out.
+## Talk it through with a Laramie CPA
 
-## Talk it through before the next deadline
-
-If you lead a nonprofit in Laramie or elsewhere in Wyoming, Nebraska or Colorado and the workload is starting to show up in your books, we would be glad to talk. Call us or [contact RML and Associates](/contact) for a free consultation. We will look at what is on your plate, find the pieces that are safe to hand off, and help you build a plan that does not depend on you working every hour.
+RML and Associates CPAs is locally owned, an independent member of the BDO Alliance USA, and glad to look at your card statements alongside your grant agreements. Our [non-profit team](/industries/nonprofits) prepares Form 990 and 990-T returns and can tell you whether a rewards program fits your organization before you sign up for one. The first consultation is free. [Contact us](/contact) and we will take the time to walk you through it.
 
 ---
 
