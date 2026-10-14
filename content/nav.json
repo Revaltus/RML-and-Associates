@@ -61,6 +61,10 @@
     {
       "label": "Agriculture",
       "url": "/industries/agriculture"
+    },
+    {
+      "label": "Nonprofits",
+      "url": "/industries/nonprofits"
     }
   ],
   "cta": {
