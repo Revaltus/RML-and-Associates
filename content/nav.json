@@ -77,6 +77,10 @@
     {
       "label": "Restaurants",
       "url": "/industries/restaurants"
+    },
+    {
+      "label": "Retail",
+      "url": "/industries/retail"
     }
   ],
   "cta": {
