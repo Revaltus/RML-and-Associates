@@ -34,26 +34,6 @@ Work a season in Colorado, own a rental in Nebraska, or run an operation that cr
 
 Tax return preparation for individuals often starts with one plain question: where did your income come from? Answer that, and we'll tell you which returns you need to file. Rules vary by state and by situation, so ask before you assume.
 
-<!-- block: feature-grid | variant: 3-col -->
-## Returns for self-employed, commission, ranch, and restaurant owners
-
-Self-employed personal tax filing in Laramie looks different from a single W-2 return. Income arrives unevenly, expenses cross between business and personal, and the numbers need a CPA's eye.
-
-### Real estate agents, brokers and portfolio investors
-icon: Home
-
-Commission checks arrive on no schedule, and 1099 income makes estimated taxes hard to predict. We help you set payments that fit what you actually earn, and we track mileage and other business expenses so they reach your return. If a sale closes on your portfolio, you'll see the tax picture before it becomes a surprise bill. More on our [real estate work](/industries/real-estate).
-
-### Farm and ranch owners
-icon: MapPin
-
-Ranch income swings with weather and markets. Returns for farm and ranch owners include drought-related deferrals, handled with a clear record of why and when. See how we work with [agriculture clients](/industries/agriculture).
-
-### Restaurant owners
-icon: Receipt
-
-Tip credits earned by the restaurant flow through to the owner's personal return. We review the business figures alongside your personal filing so the two agree. Learn more about our [restaurant clients](/industries/restaurants).
-
 <!-- block: content-split | variant: image-left | image: year-round-planning.jpg | alt: "Calendar and calculator on a desk beside a planning notebook" | query: "tax planning calendar calculator desk" -->
 ## How can I plan ahead so tax season holds no surprises?
 
