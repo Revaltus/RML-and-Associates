@@ -1,11 +1,11 @@
 ---
 title: "Careers | RML and Associates CPAs LLC"
-url: "/employment-opportunities"
+url: "/about/employment-opportunities"
 meta_title: "CPA Firm Careers Laramie WY | RML and Associates CPAs"
 meta_description: "Explore CPA firm careers in Laramie, WY. Join a locally owned team in tax, accounting and advisory with work-life balance and a supportive culture. Apply today."
 target_keyword: "CPA firm careers Laramie WY"
 secondary_keywords: ["accounting jobs Laramie WY","CPA jobs Laramie Wyoming","tax accountant jobs Laramie WY","staff accountant jobs Laramie WY","accounting internships Laramie WY","tax preparer jobs Laramie WY","accounting firm jobs Laramie Wyoming","non-profit accounting jobs Wyoming","real estate accounting careers Laramie WY"]
-canonical_url: "https://rmlcpas.com/employment-opportunities"
+canonical_url: "https://rmlcpas.com/about/employment-opportunities"
 schema_markup: "WebPage"
 hero: "page-header"
 hero_subhead: "Join a locally owned Laramie team where you're known by name and your work grows with every client"
