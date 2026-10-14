@@ -65,6 +65,10 @@
     {
       "label": "Nonprofits",
       "url": "/industries/nonprofits"
+    },
+    {
+      "label": "Professional Services",
+      "url": "/industries/professional-services"
     }
   ],
   "cta": {
