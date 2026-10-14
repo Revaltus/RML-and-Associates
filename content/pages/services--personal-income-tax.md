@@ -48,8 +48,6 @@ Call us while the deal is still open. We'll talk through how the deal may affect
 <!-- block: content-split | variant: image-right | image: laramie-cpa-office.jpg | alt: "Local CPA greeting a client in a bright Laramie office" | query: "friendly accountant greeting client office" -->
 ## Why choose a local CPA who answers when you call?
 
-A big-box tax counter or a seasonal storefront can file your return. What they can't always do is pick up the phone in July when you have a question about an estimated payment.
-
 RML is locally owned. The same team is here year-round, and we're an independent member of the BDO Alliance USA. Our core values are professionalism, responsiveness and quality, and they show up in small ways: a call returned, a question answered in plain English, a return walked through with you.
 
 Because the firm is self-owned, service fits each client rather than a script. A first-time filer and a rancher with several income sources get different conversations.
