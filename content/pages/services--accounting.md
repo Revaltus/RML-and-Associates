@@ -9,38 +9,34 @@ canonical_url: "https://rmlcpas.com/services/accounting"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Books that stay current all year, so you can plan, file and decide with confidence"
-answer_block: "RML and Associates CPAs LLC is a locally owned CPA firm in Laramie, WY that provides monthly bookkeeping, accounting, payroll setup assistance and cloud-accounting conversions. It serves agriculture, restaurants, retail, professional practices, real estate and non-profits across Wyoming, Nebraska and Colorado. The first consultation is free: call (307) 755-1040."
-eeat_signals: ["Locally owned and self-owned CPA firm based in Laramie, WY","Independent member of the BDO Alliance USA","Deep experience in tax preparation and bookkeeping","Core values of professionalism, responsiveness and quality","Liz Powers, CPA, guides cloud-accounting conversions from desktop software","Serves clients across Wyoming, Nebraska and Colorado","State and federal payroll tax handled within Business Tax work"]
+answer_block: "RML and Associates CPAs LLC is a locally owned CPA firm in Laramie, WY that provides monthly bookkeeping, accounting, payroll setup assistance and cloud-accounting conversions. It serves agriculture, restaurants, retail, professional practices, real estate and non-profits across Wyoming, Nebraska and Colorado. The first consultation is free."
+eeat_signals: ["Locally owned and self-owned CPA firm based in Laramie, WY","Independent member of the BDO Alliance USA","Deep experience in tax preparation and bookkeeping","Core values of professionalism, responsiveness and quality","Cloud-accounting conversions from desktop software","Serves clients across Wyoming, Nebraska and Colorado"]
 internal_links: [{"url":"/business-tax","reason":"Payroll setup connects to the firm's state and federal payroll tax offering, and the closing section points to business tax preparation.","anchor_text":"Business Tax"},{"url":"/industries/nonprofits","reason":"Links the non-profit sub-block to its niche page.","anchor_text":"non-profit accounting in Laramie"},{"url":"/industries/real-estate","reason":"Links the real estate sub-block to its niche page.","anchor_text":"real estate accounting"},{"url":"/industries/agriculture","reason":"Connects the audience list and drought deferral record-keeping to the agriculture niche page.","anchor_text":"agriculture and ranching operations"}]
-faq_block: [{"answer":"Yes. We help you get set up on payroll by walking you through the setup and connecting it to your books. Because state and federal payroll tax is part of our Business Tax work, your filings stay accurate and on time. Call (307) 755-1040 to talk through your situation.","question":"Do you help with payroll setup?"},{"answer":"Yes. If you are on QuickBooks Desktop, Sage or similar desktop software, we advise on the move to an online system, clean up the data first and confirm your balances match after the switch. Liz Powers, CPA, guides this work, so your books stay accurate while you change platforms.","question":"Can you move us from QuickBooks Desktop to an online system?"},{"answer":"Each month we reconcile your accounts, categorize transactions and prepare a profit and loss statement. You see what the month actually earned, and your books stay current all year, so business tax preparation starts from finished numbers instead of a last-minute cleanup. Ask us about a reporting schedule that fits how you run.","question":"What does monthly bookkeeping include?"},{"answer":"We work with agriculture and ranching operations, restaurants, retail businesses, professional practices, real estate agents and investors, and non-profits. Clients are across Wyoming, Nebraska and Colorado, and the firm is based in Laramie. Each set of books is built around how that operation actually runs.","question":"Which kinds of organizations do you serve?"},{"answer":"Yes. Call (307) 755-1040 or use the contact form to book. Bring your current books or software access and last year's return if you have them. We'll listen to how your operation runs, explain what we would do, and reply promptly, so you know your next step.","question":"Is the first consultation really free?"}]
+faq_block: [{"answer":"Yes. If you are on QuickBooks Desktop, Sage or similar desktop software, we advise on the move to an online system, clean up the data first and confirm your balances match after the switch. Our team guides you through each step, so your books stay accurate while you change platforms.","question":"Can you move us from QuickBooks Desktop to an online system?"},{"answer":"Each month we reconcile your accounts, categorize transactions and prepare a profit and loss statement. You see what the month actually earned, and your books stay current all year, so business tax preparation starts from finished numbers instead of a last-minute cleanup. Ask us about a reporting schedule that fits how you run.","question":"What does monthly bookkeeping include?"},{"answer":"We work with agriculture and ranching operations, restaurants, retail businesses, professional service businesses, real estate agents and investors, and nonprofits. Clients are across Wyoming, Nebraska and Colorado, and the firm is based in Laramie. Each set of books is built around how that operation actually runs.","question":"Which kinds of organizations do you serve?"},{"answer":"Yes. Call (307) 755-1040 or use the contact form to book. Bring your current books or software access and last year's return if you have them. We'll listen to how your operation runs, explain what we would do, and reply promptly, so you know your next step.","question":"Is the first consultation really free?"}]
 llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie, WY and an independent member of the BDO Alliance USA, offering monthly bookkeeping, accounting, payroll setup assistance and cloud-accounting conversions for agriculture, restaurants, retail, professional practices, real estate and non-profits in Wyoming, Nebraska and Colorado, with a free consultation."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Laramie accounting built around how you operate
 
-RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie that provides accounting services in Laramie, WY and across Wyoming, Nebraska and Colorado. Nobody above us hands down a template, so your accounting is set up around how your operation really runs.
+RML and Associates CPAs LLC is a locally owned firm in Laramie that provides accounting services across Wyoming, Nebraska and Colorado. Our services are designed to fit each client. Whether you're a business owner or individual, our team will set up your accounting to meet your specific needs.
 
-We work with [agriculture and ranching operations](/industries/agriculture), [restaurants](/industries/restaurants), [retail shops](/industries/retail), [professional practices](/industries/professional-services), [real estate agents and investors](/industries/real-estate), and [non-profits](/industries/nonprofits) across Wyoming, Nebraska and Colorado. As a CPA firm in Laramie, Wyoming, our job is simple: keep your numbers current so you can look ahead and plan with confidence. Not sure what you need? Start with a free consultation. We'll listen first, then tell you plainly what we would do.
+We serve businesses in several industries, and we offer specialized accounting expertise for [agriculture and ranching operations](/industries/agriculture), [restaurants](/industries/restaurants), [retail shops](/industries/retail), [professional practices](/industries/professional-services), [real estate agents and investors](/industries/real-estate), and [nonprofits](/industries/nonprofits). The team at RML and Associates keeps your numbers current so you can look ahead and plan with confidence. Not sure what you need? Schedule some time to visit. We'll listen first, then tell you how we would move forward.
 
 <!-- block: content-split | variant: image-right | image: monthly-bookkeeping-review.jpg | alt: "Accountant reviewing monthly bookkeeping reports with a business owner at a desk" | query: "accountant reviewing bookkeeping reports with client" -->
 ## Monthly bookkeeping that is ready before you ask
 
-Every month we reconcile your accounts, categorize your transactions and prepare a profit and loss statement. Because the books stay clean all year, your business tax preparation starts from finished numbers instead of a scramble in March. It is outsourced accounting for owners who would rather run the business than chase the ledger, and it works with QuickBooks or the platform you already use.
+Every month we reconcile your accounts, categorize your transactions and prepare a profit and loss statement. Because the books stay clean all year, your business tax preparation starts from finished numbers instead of a scramble in March. It is outsourced accounting for owners who would rather run the business than chase the ledger.
 
-The details change by operation. For ranchers, we keep records that support drought deferral decisions, so a forced livestock sale is documented properly when dry conditions hit. For restaurant owners, we track tip credits as they happen, so the paperwork is ready when the return is. Retail and professional services owners get something simpler and just as valuable: a clear answer to what the month actually earned.
-
-Monthly bookkeeping in Laramie should not feel like a mystery. When a number looks off, we call you, explain it and fix it.
+The details change by operation. For ranchers, we keep records that support drought deferral decisions, so a forced livestock sale is documented properly when dry conditions hit. For restaurant owners, we track tip credits as they happen, so the paperwork is ready when the return is. Retail and professional service business owners get a clear answer to what the month actually earned.
 
 <!-- block: content-split | variant: image-left | image: payroll-setup-meeting.jpg | alt: "Business owner and accountant setting up payroll together on a laptop" | query: "accountant helping owner set up payroll laptop" -->
-## How do I get my team set up on payroll?
+## Payroll support and assistance
 
-Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services in Laramie, WY, we help you get set up the right way: we walk you through the setup, confirm your pay schedule and withholding, and connect payroll to your books so wages post correctly from the first pay period. 
-
-Because state and federal payroll tax is already part of our [Business Tax](/business-tax) work, your deposits and filings stay accurate and on time. If a payroll question comes up later, call us and we will walk through it with you.
+Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services, we help you get up and running by walking you through the setup. When you have questions, our team is here to help with support to keep your payroll process on track.
 
 <!-- block: service-cards | variant: 2-col -->
-## Accounting for non-profits and real estate investors
+## Accounting specialized for your business
 
 ### Non-profit accounting
 icon: Users
@@ -52,10 +48,30 @@ icon: Home
 
 Agents and brokers deal with irregular, commission-based 1099 income that makes estimated taxes hard to predict. Portfolio investors need property-level books in place before a purchase, a flip or an exchange, not after the closing. We set up records that separate each property and each deal, so you see what is earning and what is not. See our [real estate accounting](/industries/real-estate) page for more.
 
+### Agriculture accounting
+icon: Leaf
+
+Farms and ranches run on seasons, weather and thin margins, and your books need to keep up. We keep records that support drought deferral decisions, so a forced livestock sale is documented properly when conditions turn dry. Learn more about accounting for [agriculture and ranching operations](/industries/agriculture).
+
+### Restaurant accounting
+icon: Utensils
+
+Busy kitchens leave little time for the ledger. We track tip credits as they happen, keep your sales and payroll records current, and give you a clear view of what each month actually earned. See our page for [restaurant accounting](/industries/restaurants).
+
+### Retail accounting
+icon: ShoppingBag
+
+Retail owners need to know what is selling and what is left after the bills are paid. We keep your books current all year and prepare monthly reports you can read at a glance. Visit our [retail accounting](/industries/retail) page for more.
+
+### Professional services accounting
+icon: Briefcase
+
+Professional service businesses run on time and trust, not on bookkeeping. We handle the monthly reconciling and reporting so you can see how your practice is doing and focus on your clients. Explore [accounting for professional ](/industries/professional-services)services.
+
 <!-- block: content-split | variant: image-right | image: cloud-accounting-migration.jpg | alt: "Accountant showing an owner online accounting software on a laptop screen" | query: "accountant cloud accounting software laptop client" -->
 ## How do I move from desktop software to cloud accounting?
 
-Still running QuickBooks Desktop and wondering if it is time to move online? It may be, and the switch does not have to be stressful. Liz Powers, CPA, guides our cloud-accounting work. We look at how your current file is set up, clean up old accounts, duplicates and uncleared items, then move your data to an online system. Before you go live, we check that your opening balances match, so your reports still tie out. You keep your history, your books stay accurate through the change, and we explain each step in plain language.
+Still running your accounting on an offline desktop application and wondering if it is time to move online? It may be, and the switch does not have to be stressful. We look at how your current file is set up, clean up old accounts, duplicates and uncleared items, then move your data to an online system. Before you go live, we check that your opening balances match, so your reports still tie out. You keep your history, your books stay accurate through the change, and we explain each step.
 
 <!-- block: checklist-section | variant: with-image-left | image: laramie-accounting-team.jpg | alt: "Smiling accounting team members talking with a client in a bright office" | query: "friendly accounting team meeting client office" -->
 ## Why Laramie clients stay with us
@@ -71,17 +87,14 @@ When you search for an accountant near you in Laramie, you want to know who is o
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting and bookkeeping
 
-**Q: Do you help with payroll setup?**
-A: Yes. We help you get set up on payroll by walking you through the setup and connecting it to your books. Because state and federal payroll tax is part of our Business Tax work, your filings stay accurate and on time. Call (307) 755-1040 to talk through your situation.
-
 **Q: Can you move us from QuickBooks Desktop to an online system?**
-A: Yes. If you are on QuickBooks Desktop, Sage or similar desktop software, we advise on the move to an online system, clean up the data first and confirm your balances match after the switch. Liz Powers, CPA, guides this work, so your books stay accurate while you change platforms.
+A: Yes. If you are on QuickBooks Desktop, Sage or similar desktop software, we advise on the move to an online system, clean up the data first and confirm your balances match after the switch. Our team guides you through each step, so your books stay accurate while you change platforms.
 
 **Q: What does monthly bookkeeping include?**
 A: Each month we reconcile your accounts, categorize transactions and prepare a profit and loss statement. You see what the month actually earned, and your books stay current all year, so business tax preparation starts from finished numbers instead of a last-minute cleanup. Ask us about a reporting schedule that fits how you run.
 
 **Q: Which kinds of organizations do you serve?**
-A: We work with agriculture and ranching operations, restaurants, retail businesses, professional practices, real estate agents and investors, and non-profits. Clients are across Wyoming, Nebraska and Colorado, and the firm is based in Laramie. Each set of books is built around how that operation actually runs.
+A: We work with agriculture and ranching operations, restaurants, retail businesses, professional service businesses, real estate agents and investors, and nonprofits. Clients are across Wyoming, Nebraska and Colorado, and the firm is based in Laramie. Each set of books is built around how that operation actually runs.
 
 **Q: Is the first consultation really free?**
 A: Yes. Call (307) 755-1040 or use the contact form to book. Bring your current books or software access and last year's return if you have them. We'll listen to how your operation runs, explain what we would do, and reply promptly, so you know your next step.
