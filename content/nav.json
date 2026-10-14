@@ -69,6 +69,10 @@
     {
       "label": "Professional Services",
       "url": "/industries/professional-services"
+    },
+    {
+      "label": "Real Estate",
+      "url": "/industries/real-estate"
     }
   ],
   "cta": {
