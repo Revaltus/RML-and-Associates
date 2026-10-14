@@ -2,51 +2,53 @@
   "primary": [
     {
       "label": "Services",
-      "url": "/",
+      "url": "/services",
       "children": [
         {
           "label": "Accounting and bookkeeping",
-          "url": "/accounting"
+          "url": "/services/accounting"
         },
         {
           "label": "Business tax",
-          "url": "/business-tax"
+          "url": "/services/business-tax"
         },
         {
           "label": "Advisory services",
-          "url": "/advisory"
+          "url": "/services/advisory"
         },
         {
           "label": "Personal income tax",
-          "url": "/personal-income-tax"
+          "url": "/services/personal-income-tax"
         }
       ]
     },
     {
       "label": "Industries",
-      "url": "/"
+      "url": "/industries"
     },
     {
       "label": "About",
-      "url": "/",
+      "url": "/about",
       "children": [
         {
           "label": "Meet the team",
-          "url": "/meet-the-team"
+          "url": "/about/meet-the-team"
         },
         {
           "label": "Careers",
-          "url": "/employment-opportunities"
+          "url": "/about/employment-opportunities"
         }
       ]
     },
     {
-      "label": "Forms, Documents, and Links",
-      "url": "/links"
-    },
-    {
       "label": "Resources",
-      "url": "/resources"
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Forms, Documents, and Links",
+          "url": "/resources/links"
+        }
+      ]
     },
     {
       "label": "Contact",
