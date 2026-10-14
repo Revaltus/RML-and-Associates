@@ -1,11 +1,11 @@
 ---
 title: "Meet the team | RML and Associates CPAs LLC"
-url: "/meet-the-team"
+url: "/about/meet-the-team"
 meta_title: "CPA Firm Laramie WY Team | RML and Associates CPAs"
 meta_description: "Meet the CPA firm Laramie WY team at RML and Associates CPAs. Locally owned, serving Wyoming, Nebraska and Colorado. Book your free consultation today."
 target_keyword: "CPA firm Laramie WY team"
 secondary_keywords: ["meet the CPAs Laramie Wyoming","RML and Associates CPAs team","Laramie CPA firm staff","certified public accountants Laramie WY","Laramie tax accountant near me","local CPA team Laramie Wyoming","non-profit accounting CPA Laramie","real estate tax CPA Laramie WY","Laramie CPA firm experienced accountants","Albany County CPA firm Wyoming"]
-canonical_url: "https://rmlcpas.com/meet-the-team"
+canonical_url: "https://rmlcpas.com/about/meet-the-team"
 schema_markup: "LocalBusiness"
 hero: "page-header"
 hero_subhead: "Put faces to the CPAs who answer your calls, explain your taxes and help you plan ahead"

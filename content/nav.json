@@ -1,44 +1,58 @@
 {
   "primary": [
     {
-      "label": "Careers",
-      "url": "/employment-opportunities"
+      "label": "Services",
+      "url": "/services",
+      "children": [
+        {
+          "label": "Accounting and bookkeeping",
+          "url": "/services/accounting"
+        },
+        {
+          "label": "Business tax",
+          "url": "/services/business-tax"
+        },
+        {
+          "label": "Advisory services",
+          "url": "/services/advisory"
+        },
+        {
+          "label": "Personal income tax",
+          "url": "/services/personal-income-tax"
+        }
+      ]
     },
     {
-      "label": "Personal income tax",
-      "url": "/personal-income-tax"
+      "label": "Industries",
+      "url": "/industries"
     },
     {
-      "label": "Business tax",
-      "url": "/business-tax"
-    },
-    {
-      "label": "Accounting and bookkeeping",
-      "url": "/accounting"
-    },
-    {
-      "label": "Forms, Documents, and Links",
-      "url": "/links"
+      "label": "About",
+      "url": "/about",
+      "children": [
+        {
+          "label": "Meet the team",
+          "url": "/about/meet-the-team"
+        },
+        {
+          "label": "Careers",
+          "url": "/about/employment-opportunities"
+        }
+      ]
     },
     {
       "label": "Resources",
-      "url": "/resources"
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Forms, Documents, and Links",
+          "url": "/resources/links"
+        }
+      ]
     },
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Privacy statement",
-      "url": "/privacy-statement"
-    },
-    {
-      "label": "Advisory services",
-      "url": "/advisory"
-    },
-    {
-      "label": "Meet the team",
-      "url": "/meet-the-team"
     }
   ],
   "cta": {

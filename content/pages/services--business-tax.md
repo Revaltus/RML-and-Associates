@@ -1,11 +1,11 @@
 ---
 title: "Business tax | RML and Associates CPAs LLC"
-url: "/business-tax"
+url: "/services/business-tax"
 meta_title: "Business Tax Preparation Laramie WY | RML and Associates"
 meta_description: "Business tax preparation in Laramie, WY for LLCs, S corps, partnerships and corporations. Year-round planning, on-time filings, free consultation. Call RML."
 target_keyword: "business tax preparation Laramie WY"
 secondary_keywords: ["business tax accountant Laramie Wyoming","LLC tax preparation Laramie WY","S corp tax filing Laramie","corporate tax preparation Albany County WY","tax accountant near me Laramie WY","partnership tax return preparation Laramie","business tax filing deadline Wyoming","CPA firm Laramie WY business taxes"]
-canonical_url: "https://rmlcpas.com/business-tax"
+canonical_url: "https://rmlcpas.com/services/business-tax"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "Accurate, on-time business returns and year-round planning, so a good year never ends in a surprise tax bill"
