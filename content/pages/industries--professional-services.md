@@ -48,6 +48,14 @@ That starts with clean, timely [accounting](/accounting). When your financials a
 
 A practical example: many practices still run desktop accounting software. Liz Powers, CPA, helps owners move from QuickBooks Desktop to QuickBooks Online, so reports are available when you need them and not only when someone is in the office.
 
+Every kind of practice earns a little differently, so we tailor the accounting and advisory work to yours:
+
+- **Attorneys:** Income often follows the cases you close and the bills you send. Clean monthly books and profit and loss statements show what the firm actually earned, so you can plan partner draws, estimated taxes and staffing with real numbers.
+- **Engineers:** Project-based work means revenue comes in waves. Budgeting and forecasting help you see how busy seasons and slower stretches affect cash, and whether it is the right time to add a hire, software or equipment.
+- **Mental health therapists:** Whether you are in solo practice or a group, income depends on sessions held and payments received. Current books and a cloud accounting setup make it easier to see where the practice stands and to plan before you add office space or another clinician.
+
+Whatever your field, call us and tell us how your practice works. We will take the time to walk you through your numbers and make sure they make sense.
+
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Professional services
 
