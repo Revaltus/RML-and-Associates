@@ -1,11 +1,11 @@
 ---
 title: "Personal income tax | RML and Associates CPAs LLC"
-url: "/personal-income-tax"
+url: "/services/personal-income-tax"
 meta_title: "Personal Income Tax Preparation Laramie WY | RML CPAs"
 meta_description: "CPA-prepared federal and state returns for Laramie, WY. Accurate, on-time, e-filed, with planning that starts before the deadline. Book a free consultation."
 target_keyword: "personal income tax preparation Laramie WY"
 secondary_keywords: ["CPA personal tax return Laramie","tax preparer near me Laramie","personal income tax CPA Laramie WY","affordable tax return prep Laramie","Laramie WY tax accountant","federal and state tax return filing Laramie","Wyoming has no state income tax filing help","tax return preparation for individuals Albany County WY","self-employed personal tax filing Laramie","tax refund help Laramie Wyoming","IRS tax filing assistance Laramie WY","1099 and W-2 tax preparation Laramie","RML and Associates CPAs personal tax"]
-canonical_url: "https://rmlcpas.com/personal-income-tax"
+canonical_url: "https://rmlcpas.com/services/personal-income-tax"
 schema_markup: "Service"
 hero: "page-header"
 hero_subhead: "A CPA prepares your return, files it on time, and flags what to plan for next year"
