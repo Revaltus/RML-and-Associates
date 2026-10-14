@@ -51,7 +51,7 @@ Every stage of owning a business comes with decisions that carry a tax cost. We 
 
 ### Forming a business the right way
 
-If you are starting a business, we walk you through the choices before anything is filed. We talk about how the business is structured, how that choice affects your taxes, and what you will need to have in place for state and federal filings, sales tax and payroll. Starting with a clear plan makes the first year much less stressful.
+If you are starting a business, we walk you through the choices before anything is filed. We talk about how the business is structured, how that choice affects your taxes, and what you will need to have in place for state and federal filings and sales tax. Starting with a clear plan makes the first year much less stressful.
 
 ### Retirement planning alongside your financial advisor
 
