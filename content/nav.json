@@ -24,11 +24,21 @@
     },
     {
       "label": "Industries",
-      "url": "/industries"
+      "url": "/"
     },
     {
-      "label": "Careers",
-      "url": "/employment-opportunities"
+      "label": "About",
+      "url": "/",
+      "children": [
+        {
+          "label": "Meet the team",
+          "url": "/meet-the-team"
+        },
+        {
+          "label": "Careers",
+          "url": "/employment-opportunities"
+        }
+      ]
     },
     {
       "label": "Forms, Documents, and Links",
@@ -41,14 +51,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Meet the team",
-      "url": "/meet-the-team"
-    },
-    {
-      "label": "About",
-      "url": "/about"
     }
   ],
   "cta": {
