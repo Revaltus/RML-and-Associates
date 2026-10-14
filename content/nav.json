@@ -24,7 +24,33 @@
     },
     {
       "label": "Industries",
-      "url": "/industries"
+      "url": "/industries",
+      "children": [
+        {
+          "label": "Agriculture",
+          "url": "/industries/agriculture"
+        },
+        {
+          "label": "Professional Services",
+          "url": "/industries/professional-services"
+        },
+        {
+          "label": "Real Estate",
+          "url": "/industries/real-estate"
+        },
+        {
+          "label": "Restaurants",
+          "url": "/industries/restaurants"
+        },
+        {
+          "label": "Retail",
+          "url": "/industries/retail"
+        },
+        {
+          "label": "Nonprofits",
+          "url": "/industries/nonprofits"
+        }
+      ]
     },
     {
       "label": "About",
@@ -53,34 +79,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Home",
-      "url": "/"
-    },
-    {
-      "label": "Agriculture",
-      "url": "/industries/agriculture"
-    },
-    {
-      "label": "Nonprofits",
-      "url": "/industries/nonprofits"
-    },
-    {
-      "label": "Professional Services",
-      "url": "/industries/professional-services"
-    },
-    {
-      "label": "Real Estate",
-      "url": "/industries/real-estate"
-    },
-    {
-      "label": "Restaurants",
-      "url": "/industries/restaurants"
-    },
-    {
-      "label": "Retail",
-      "url": "/industries/retail"
     }
   ],
   "cta": {
