@@ -2,7 +2,7 @@
 title: "Restaurants | RML and Associates CPAs LLC"
 url: "/industries/restaurants"
 meta_title: "Restaurant Accountant Laramie WY | RML and Associates CPAs"
-meta_description: "Restaurant accountant Laramie WY owners trust for tip credits, sales tax and monthly financials. Book a free consultation with RML and Associates CPAs."
+meta_description: "Restaurant accountant Wyoming, Nebraska and Colorado trusts for tip credits, sales tax and monthly financials."
 target_keyword: "restaurant accountant Laramie WY"
 secondary_keywords: ["restaurant bookkeeping Laramie","CPA for restaurants Laramie WY","restaurant tax preparation Laramie","small restaurant accounting services Wyoming","food service business accountant Laramie","restaurant sales tax help Wyoming","restaurant CPA near me Laramie"]
 canonical_url: "https://rmlcpas.com/industries/restaurants"
@@ -21,9 +21,9 @@ llm_citation_note: "RML and Associates CPAs LLC, a Laramie, WY CPA firm, reviews
 
 A packed Saturday night doesn't mean the restaurant made money. Margins are thin, a lot of the day's take arrives as cash, tipped staff add reporting rules, and sales tax is collected on every ticket. Put those together and the real result gets buried.
 
-Most Laramie owners we talk with are busy, proud of the food, and unsure what the year actually earned until the return is done. That is a hard way to run a business you built yourself.
+Most restaurant owners we talk with are busy, proud of the food, and unsure what the year actually earned until the return is done. That is a hard way to run a business you built yourself.
 
-RML and Associates CPAs is the local restaurant accountant Laramie, WY owners call when they want straight answers. For independent restaurants and every kind of food service business, we look ahead so you can plan with confidence, not react in April.
+RML and Associates CPAs is the restaurant accountant in Laramie, WY who restaurant owners call when they want straight answers. For independent restaurants and every kind of food service business, we look ahead so you can plan with confidence.
 
 <!-- block: content-split | variant: image-left | image: restaurant-server-tips.jpg | alt: "Restaurant server settling a check with a customer at a busy table" | query: "restaurant server customer paying check" -->
 ## Restaurant tip credits you should not leave unclaimed
@@ -47,21 +47,15 @@ Local and state sales tax returns prepared accurately and filed on time. If you 
 ### Income tax preparation and filing
 icon: FileCheck
 
-State and federal returns for your restaurant, prepared with a clear view of your whole year. This is restaurant tax preparation in Laramie from a CPA who knows your business.
-
-### Payroll tax
-icon: Users
-
-State and federal payroll tax handled correctly, including the tip reporting that feeds your credits. Mistakes here are expensive, so we check twice.
-
+State and federal returns for your restaurant, prepared with a clear view of your whole year. This is restaurant tax preparation in Wyoming from a CPA who knows your business.
 <!-- block: content-split | variant: image-right | image: restaurant-profit-loss-review.jpg | alt: "Chef and manager reviewing monthly financial statements together in a restaurant kitchen" | query: "restaurant manager reviewing financial statements" -->
 ## Monthly financials that show where the money goes
 
-If you only learn the year's result when taxes are due, you can't fix anything in time. Current restaurant bookkeeping in Laramie turns into profit and loss statements you can read each month. Food cost, labor cost and overhead sit side by side, period by period.
+If you only learn the year's result when taxes are due, you can't fix anything in time. Current restaurant bookkeeping turns into profit and loss statements you can read each month. Food cost, labor cost and overhead sit side by side, period by period.
 
 That is when a menu price that no longer covers the plate shows up, or when labor creeps past where it should be. You see it in March, not the following February.
 
-We walk through the statements with you in plain language. If something looks off, you hear about it from us first. Accounting for restaurants across Wyoming works best when the owner actually uses the numbers.
+We walk through the statements with you in plain language. If something looks off, you hear about it from us first. Accounting for restaurants across works best when the owner actually uses the numbers.
 
 <!-- block: content-prose -->
 ## Planning ahead for a second location, a buyout or a sale
@@ -93,9 +87,7 @@ A: Yes. We talk through equipment purchases, a second location, bringing in a pa
 <!-- block: cta-banner | variant: image-bg | image: laramie-restaurant-consultation.jpg | alt: "CPA and restaurant owner talking across a table in a bright cafe" | query: "accountant meeting restaurant owner cafe" -->
 ## Start with a free consultation
 
-Pick up the phone and call (307) 755-1040, or use the contact form to book your free consultation. Bring last year's return and a recent profit and loss statement. That's all.
-
-You'll leave knowing where your restaurant stands, whether a tip credit is waiting to be claimed, and what to tackle first. No pressure and no jargon.
+Schedule some time to visit with us. You'll leave knowing where your restaurant stands, whether a tip credit is waiting to be claimed, and what to tackle first. No pressure and no jargon.
 
 [Schedule a consultation](/contact)
 
