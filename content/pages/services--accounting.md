@@ -19,23 +19,21 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned C
 <!-- block: intro-text | variant: centered -->
 ## Laramie accounting built around how you operate
 
-RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie that provides accounting services in Laramie, WY and across Wyoming, Nebraska and Colorado. Nobody above us hands down a template, so your accounting is set up around how your operation really runs.
+RML and Associates CPAs LLC is a locally owned firm in Laramie that provides accounting services across Wyoming, Nebraska and Colorado. Our services are designed to fit each client. Whether you're a business owner or individual, our team will set up your accounting to meet your specific needs.
 
-We work with [agriculture and ranching operations](/industries/agriculture), [restaurants](/industries/restaurants), [retail shops](/industries/retail), [professional practices](/industries/professional-services), [real estate agents and investors](/industries/real-estate), and [non-profits](/industries/nonprofits) across Wyoming, Nebraska and Colorado. As a CPA firm in Laramie, Wyoming, our job is simple: keep your numbers current so you can look ahead and plan with confidence. Not sure what you need? Start with a free consultation. We'll listen first, then tell you plainly what we would do.
+We serve businesses in several industries, and we offer specialized accounting and advisory expertise for [agriculture and ranching operations](/industries/agriculture), [restaurants](/industries/restaurants), [retail shops](/industries/retail), [professional practices](/industries/professional-services), [real estate agents and investors](/industries/real-estate), and [nonprofits](/industries/nonprofits). The team at RML and Associates keeps your numbers current so you can look ahead and plan with confidence. Not sure what you need? Schedule some time to visit. We'll listen first, then tell you how we would move forward.
 
 <!-- block: content-split | variant: image-right | image: monthly-bookkeeping-review.jpg | alt: "Accountant reviewing monthly bookkeeping reports with a business owner at a desk" | query: "accountant reviewing bookkeeping reports with client" -->
 ## Monthly bookkeeping that is ready before you ask
 
-Every month we reconcile your accounts, categorize your transactions and prepare a profit and loss statement. Because the books stay clean all year, your business tax preparation starts from finished numbers instead of a scramble in March. It is outsourced accounting for owners who would rather run the business than chase the ledger, and it works with QuickBooks or the platform you already use.
+Every month we reconcile your accounts, categorize your transactions and prepare a profit and loss statement. Because the books stay clean all year, your business tax preparation starts from finished numbers instead of a scramble in March. It is outsourced accounting for owners who would rather run the business than chase the ledger.
 
-The details change by operation. For ranchers, we keep records that support drought deferral decisions, so a forced livestock sale is documented properly when dry conditions hit. For restaurant owners, we track tip credits as they happen, so the paperwork is ready when the return is. Retail and professional services owners get something simpler and just as valuable: a clear answer to what the month actually earned.
-
-Monthly bookkeeping in Laramie should not feel like a mystery. When a number looks off, we call you, explain it and fix it.
+The details change by operation. For ranchers, we keep records that support drought deferral decisions, so a forced livestock sale is documented properly when dry conditions hit. For restaurant owners, we track tip credits as they happen, so the paperwork is ready when the return is. Retail and professional service business owners get a clear answer to what the month actually earned.
 
 <!-- block: content-split | variant: image-left | image: payroll-setup-meeting.jpg | alt: "Business owner and accountant setting up payroll together on a laptop" | query: "accountant helping owner set up payroll laptop" -->
-## How do I get my team set up on payroll?
+## Payroll support and assistance
 
-Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services in Laramie, WY, we help you get set up the right way: we walk you through the setup, confirm your pay schedule and withholding, and connect payroll to your books so wages post correctly from the first pay period. 
+Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services, we help you get up and running by walking you through the setup. When you have questions, our team is here to help with support to keep your payroll process on track.
 
 Because state and federal payroll tax is already part of our [Business Tax](/business-tax) work, your deposits and filings stay accurate and on time. If a payroll question comes up later, call us and we will walk through it with you.
 
