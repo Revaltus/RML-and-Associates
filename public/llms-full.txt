@@ -638,105 +638,116 @@ Call (307) 755-1040 or send a note through our [contact form](/contact). A real 
 
 ## Resources
 
-### Business credit card rewards strategy for Laramie non-profits
-URL: /resources/business-credit-card-rewards-a-financial-strategy-for-busine
+### Do the math behind renting vs. buying a home
+URL: /resources/do-the-math-behind-renting-vs-buying-a-home
 
-Most Laramie non-profits already have a business credit card. Somebody on staff opened it for conference registrations or software subscriptions, and the rewards have been piling up ever since without anyone deciding what to do with them. A treasurer finds out at year-end that the organization is sitting on 80,000 points, a bookkeeper wonders where they belong in the books, and a board member asks whether this is a tax problem. It can be a small win or a small mess, depending on a few choices you make early.
+The conversation usually starts with two numbers: what you pay in rent now and what a mortgage "would be." Neither is the whole comparison. If you work for a Laramie nonprofit, serve on its board, or run it, the decision also touches grant-cycle job security, a salary that may not grow fast, and a down payment that is probably most of your savings.
 
-This post walks through how to treat card rewards as a deliberate cash-flow tool for a non-profit: which card structure fits which spending, how the tax treatment generally works, and where grant rules and board oversight come in.
+This post walks through the math the way we would at a coffee meeting. It uses illustrative numbers, so swap in your own.
 
-## Rewards belong in the board's conversation
+## Start with your personal financial statement
 
-A rewards card is a financing and cash-management decision. It is not a perk for whoever happens to hold the plastic.
+A personal financial statement is a one-page list of what you own and what you owe. Your organization's board sees the same idea every quarter as a statement of financial position. Buying a home changes that page more than almost any other decision you will make.
 
-Here is the basic math. Say your organization runs $10,000 a month through cards: program supplies, software, travel to a regional conference, event deposits. That is $120,000 a year. A flat 1.5% cash-back card returns $1,800. A card with a $95 annual fee and 3% back on your biggest category might return more, or it might return less if your spending is spread thin. Neither answer is obvious until someone looks at twelve months of statements.
+On the day you close, cash drops, a large asset appears, and a 30-year loan shows up on the other side. Your net worth does not change on day one, but your liquidity falls sharply. That matters if your position is funded by a grant that ends in 18 months.
 
-The bigger lever is timing. A card with a monthly billing cycle and a grace period gives you roughly 25 to 55 days between a purchase and the cash leaving your bank account. For an organization waiting on a reimbursement from a funder, that float can smooth out a tight month. It only works if the balance is paid in full. Interest at typical card rates will erase a year of rewards in one or two billing cycles, so a non-profit that carries a balance should skip the rewards conversation and fix the cash flow first.
+The Federal Reserve's [Survey of Consumer Finances](https://www.federalreserve.gov/publications/files/scf20.pdf) shows why people buy. In the 2019 survey, median net worth for homeowners was roughly $255,000, against about $6,300 for renters. That gap is real, but part of it reflects who tends to buy: people with steadier income and more savings. It does not prove that any particular house will build wealth for any particular buyer.
 
-## Three Laramie non-profits, three different cards
+So before you compare payments, write down three things:
 
-The right card follows the spending pattern. These are illustrative examples, not specific clients, but the patterns are common.
+- Cash you could put toward a purchase, and cash you must keep as an emergency reserve.
+- Monthly take-home pay, and how much of it is stable.
+- How long you realistically expect to stay in Laramie.
 
-| Organization type | Typical card spending | Card structure that tends to fit |
+The third item drives the answer more than any of the others.
+
+## Price the full cost of owning, not just the mortgage
+
+The mortgage payment is the number people compare to rent, and it is the smallest part of the story. Here is an illustrative $300,000 home with 10 percent down, a 30-year loan at 6.75 percent, and a comparable rental at $1,500 a month. These are example figures, not a quote for any specific property.
+
+| Monthly cost | Own | Rent |
 |---|---|---|
-| Youth or education program | Supplies, field trips, software, snacks and event materials | Flat-rate cash back, no annual fee, many small purchases |
-| Arts or community venue | Event deposits, marketing, vendor payments, ticketing fees | Higher rewards in one or two categories, if the volume justifies a fee |
-| Association with a travel budget | Conference travel, lodging, member meetings | Travel card with a modest fee, if airfare and hotels exceed about $15,000 a year |
+| Principal and interest on $270,000 | $1,750 | n/a |
+| Property tax (assumed) | $150 | n/a |
+| Homeowner's insurance (assumed) | $125 | n/a |
+| Maintenance at 1 percent of value per year | $250 | n/a |
+| Rent | n/a | $1,500 |
+| **Total** | **$2,275** | **$1,500** |
 
-A few rules of thumb hold across all three.
+The gap is about $775 a month. Part of the principal portion of that payment is you paying yourself, because it builds equity. In year one, though, only about $2,900 of the $21,000 in annual payments goes to principal. The rest is interest.
 
-**Count the fee against the rewards.** An annual fee of $95 needs about $6,300 a year in spending at 1.5% just to break even, before you count any bonus categories. Many non-profits are better off with a no-fee card.
+Maintenance is the line people skip. A furnace in a Wyoming winter, a roof after a hailstorm, or a water heater that quits in January all come out of your pocket, not a landlord's.
 
-**Be cautious with sign-up bonuses.** A bonus that requires $4,000 of spending in three months can push an organization to pull purchases forward, which defeats the point of managing cash.
+## Count what the down payment would have earned elsewhere
 
-**Prefer cash back over points for most organizations.** Points are harder to value, harder to record, and easier to lose track of when staff turn over. Cash back or statement credits create a clean, dated entry.
+The down payment and closing costs on that $300,000 home add up to roughly $39,000: $30,000 down plus about 3 percent in closing costs. That money has a job to do whether it sits in a house or somewhere else.
 
-**Skip personal-style perks.** Airport lounge access and companion tickets benefit one person. A rewards program that mostly serves the cardholder invites questions the board does not want to field.
+If it stays in a savings account or a conservative portfolio earning 4 percent, it produces about $1,560 in the first year. That is a real cost of buying even though it never shows up on a mortgage statement. If your organization's board has ever sorted reserves into buckets, you already understand the idea. The same discipline applies to household savings, and our post on [keeping a balanced investment portfolio on a schedule](/resources/strategically-balancing-your-investment-portfolio-why-set-it) covers how to think about it.
 
-## Rewards are usually a price reduction, not income
+There is a flip side. If you would not invest the difference and would spend it instead, owning can work as forced savings. Be honest with yourself about which person you are. The math can only reflect the behavior you actually have.
 
-Business owners ask whether card rewards are taxable. For purchases, the general view is that cash back or points earned from spending are treated as a rebate or discount on what you bought, not as income. Your cost goes down slightly, and nothing new shows up on a return.
+## Run both sides over the years you plan to stay
 
-A few situations are different, and they are worth knowing before you act:
+Now put the pieces together. Using the same example, assume the home appreciates 3 percent a year, rent rises 3 percent a year, and selling costs run about 7 percent of the price.
 
-- **Bonuses with no purchase requirement.** A deposit bonus or a payment for simply opening an account can be treated as income, and the issuer may send a Form 1099-MISC.
-- **Co-branded or affinity cards.** If a card carries your organization's name and the issuer pays you for each swipe by members or donors, that payment is a different animal. Royalty-type income often falls outside unrelated business income, but the details matter. A Form 990-T question deserves a conversation before you sign anything.
-- **Personal use.** If an employee earns points on organization-paid travel and keeps them, you have created a personal benefit question. A written policy fixes that.
+| Five-year result | Buy | Rent |
+|---|---|---|
+| Cash paid out (payments, upkeep, upfront costs) | about $175,600 | about $95,600 |
+| Net sale proceeds after loan payoff and selling costs | about $70,000 | n/a |
+| Growth on the $39,000 kept invested at 4 percent | n/a | about $8,450 |
+| **Net cost over five years** | **about $105,600** | **about $87,100** |
 
-For general background on federal small-entity guidance, the [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) is a good starting point. For anything specific to your exempt status, ask a CPA who handles non-profit returns every week.
+Under these assumptions, renting comes out roughly $18,500 ahead after five years. Run the same model at seven and ten years and the gap narrows each year, because the selling costs get spread over more time and more of each payment goes to principal. Change the assumptions and the answer moves. A 5 percent appreciation rate or a 6 percent mortgage rate helps buying. Flat prices or a surprise $12,000 roof helps renting.
 
-## Check your grant terms before you redeem a point
+That is the point of building it as a model. You are not trying to predict the market. You are finding the break-even year and asking whether you will plausibly still be in the house then.
 
-This is where a non-profit differs most from a for-profit company. If a grant or contract pays for a purchase, the rewards from that purchase may not be yours to keep.
+If you do not have a spreadsheet handy, any rent vs buy calculator will give you a rough answer. Just check what it assumes about maintenance, selling costs, and investment returns, because many leave those out.
 
-Many federal awards and some foundation agreements treat rebates, discounts and similar credits as reductions of the cost charged to the grant. If you bought $6,000 of program supplies on a card with 2% back, the funder may expect the cost to net out to $5,880. Interest and late fees are typically unallowable costs as well, so a card balance carried past the due date can leave you paying out of unrestricted funds.
+## What the mortgage interest deduction does and does not do
 
-The practical fix is simple. Before you route grant-funded spending to a rewards card, read the award terms and ask the program officer if the language is unclear. Some organizations keep grant-funded purchases on a separate no-rewards card or pay those vendors by check or ACH, and use the rewards card only for unrestricted spending. That keeps the audit trail clean when a funder asks for support.
+Homeowners often count the mortgage interest deduction as a built-in discount. For many households it is smaller than expected. It only helps if your itemized deductions exceed the standard deduction, which for a married couple has been above $29,000 in recent years. A household with a modest mortgage, state tax, and charitable gifts may land under that line and get no extra benefit at all.
 
-If you are deciding between this and other ways of spending organizational dollars, our posts on [leasing versus buying a vehicle](/resources/auto-leasing-vs-buying-which-makes-more-sense) and [sizing insurance coverage](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) use the same lens: match the choice to cash flow and funder rules, not to a generic checklist.
+IRS [Topic No. 505](https://www.irs.gov/taxtopics/tc505) explains which mortgage interest qualifies and the limits on how much debt counts. If you give generously to your own organization or others, your gifts count toward itemizing as well, so run the numbers both ways before you assume the deduction will matter.
 
-## Write a card policy the board can approve
+It is also worth asking what your return looks like with and without a home. Our [personal income tax team](/personal-income-tax) can run both versions in a few minutes, and that beats guessing.
 
-A two-page policy prevents most of the problems above. Boards that approve one tend to avoid surprises when a bookkeeper leaves or a new treasurer steps in, which are two of the most common moments when card practices fall apart.
+## Nonprofit paychecks add their own variables
 
-A workable policy covers:
+A few details come up often in the Laramie nonprofit world, and they change the math.
 
-1. **Who may hold a card** and the monthly limit for each holder, for example $2,500 for a program director and $750 for a volunteer coordinator.
-2. **What the card may buy,** and what it may not (personal items, cash advances, anything restricted by a grant).
-3. **Who owns the rewards.** The organization does. Individual cardholders do not.
-4. **Documentation.** An itemized receipt or a short written explanation for every charge, submitted within a set number of days.
-5. **Payment.** The balance is paid in full each month from a designated account, approved by someone other than the cardholder.
-6. **Redemption.** Rewards are redeemed on a set schedule, such as quarterly, and credited to a specific account.
+**Grant-funded roles.** If your salary depends on a two- or three-year grant, a 30-year loan carries more risk than the same loan for someone with a permanent position. Lenders will look at your income history. You should look at your runway: how many months of housing costs you could cover if the grant did not renew?
 
-That last point matters more than it seems. Rewards left to pile up for three years create a liability of attention, and they can expire or vanish if the program changes.
+**Student loans and forgiveness programs.** If you are on an income-driven repayment plan or working toward public service loan forgiveness, a larger mortgage can change how lenders see your debt-to-income ratio. Check your repayment status before you apply, not after.
 
-## Record rewards the same way every month
+**Board service and turnover.** Executive directors and program staff move more often than the 30-year loan assumes. If a board turnover or a new funder could send you to another city within five years, the five-year table above is your table, not the ten-year one.
 
-The tax treatment is rarely the hard part. Reconciliation is.
+**Variable income from side work.** Many people in the sector also consult, teach, or freelance. Lenders typically want a two-year history of that income. Keep clean records now and you will have a stronger application later.
 
-A tidy approach looks like this. Each month, reconcile the card statement to the books, coding every charge to the correct program, grant and expense category. When rewards post as a statement credit, record them as a reduction of the related expense, or in a designated account if your policy says so, and be consistent year to year. For restricted funds, make sure the credit lands in the same fund as the original purchase.
+## When the organization itself is the one deciding
 
-Cloud accounting software helps here. Bank and card feeds into a platform like QuickBooks Online mean charges arrive already dated and matched, and Liz Powers, CPA, who works with clients moving from desktop software to cloud platforms, can set up rules so recurring vendors are coded the same way each time. Our [accounting team](/accounting) handles that setup for Laramie organizations that would rather spend their evenings on programs than on spreadsheets.
+The same question comes up for the nonprofit. Your organization may be paying rent on an office or program space and wondering whether a building would be better. The framework is identical, with a few extra layers.
 
-If you are not sure where your current setup stands, a quick review of three months of card statements usually shows the answer: how much you spend, what you are earning, what you are paying in fees, and whether anything touches a grant.
+A building turns cash reserves into a fixed asset, which can be hard to reverse quickly. A funder may restrict how grant money can be spent on property. The board should model maintenance, insurance, and a capital reserve for the roof and the boiler. It should also check whether any property tax exemption applies to the organization before assuming it does.
+
+Read the board package the way a funder would. Does the statement of financial position still show enough unrestricted cash after the purchase? If not, renting longer may be the more responsible answer. Our [nonprofit accounting work](/industries/nonprofits) already includes board-ready financial statements, so the building question fits naturally into that conversation. For forecasting a decision this size, Megan Hanneman, CGMA, builds the budgets and cash-flow projections that make the trade-offs visible.
 
 ## Common Questions
 
-**Are credit card rewards taxable for a non-profit?**
+**Is renting better than buying?**
 
-Rewards earned from purchases are generally treated as a price reduction, not income. Sign-up bonuses that require no spending, and payments from a co-branded card that uses your organization's name, can be treated differently. Check with your CPA before accepting either, since they may affect Form 990-T reporting.
+Neither is better in general. Renting tends to win when you expect to stay fewer than five to seven years, your income is uncertain, or your savings would be drained by the down payment. Buying tends to win with a longer horizon and stable income. The break-even year in your own model decides it.
 
-**How do I choose a business credit card for a non-profit?**
+**What is the real cost of buying vs renting a home?**
 
-Start with twelve months of actual card spending. If purchases are small and spread across many categories, a flat-rate cash-back card with no annual fee usually wins. A fee card only makes sense when one category, like conference travel, is large enough to cover the fee several times over.
+Owning costs more than the mortgage. Add property tax, insurance, about 1 percent of the home's value per year for maintenance, closing costs near 3 percent, and roughly 7 percent to sell. Then subtract the equity you build. Renting costs the rent plus whatever your down payment earns elsewhere.
 
-**Can we keep rewards from grant-funded purchases?**
+**Does the mortgage interest deduction make buying cheaper?**
 
-Not always. Many federal awards and some foundation agreements treat rebates and discounts as credits against the cost charged to the grant. Read the award terms first, and when in doubt, put grant-funded spending on a separate no-rewards card or pay by check or ACH.
+Only if your itemized deductions exceed the standard deduction. Many households with modest mortgages never cross that line. Check [IRS Topic No. 505](https://www.irs.gov/taxtopics/tc505) for what qualifies, then compare your itemized total to the standard deduction before you count on the savings.
 
-## Talk it through with a Laramie CPA
+## Bring your numbers to a free consultation
 
-RML and Associates CPAs is locally owned, an independent member of the BDO Alliance USA, and glad to look at your card statements alongside your grant agreements. Our [non-profit team](/industries/nonprofits) prepares Form 990 and 990-T returns and can tell you whether a rewards program fits your organization before you sign up for one. The first consultation is free. [Contact us](/contact) and we will take the time to walk you through it.
+If you are weighing a purchase, or your board is weighing a building, we would be glad to build the comparison with you using your real figures instead of rules of thumb. The consultation is free, and you will walk away with a clear break-even year and a sense of the risks. [Contact our Laramie office](/contact) to set up a time.
 
 ---
 
