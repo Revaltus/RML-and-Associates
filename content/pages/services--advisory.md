@@ -44,6 +44,30 @@ Three decision points come up again and again:
 
 RML and Associates brings budgeting and forecasting experience to these conversations for owners and management teams who want numbers they can steer by. The goal is confidence, not just compliance.
 
+<!-- block: content-prose -->
+## Advice for business owners, from the first day to the handoff
+
+Every stage of owning a business comes with decisions that carry a tax cost. We sit down with you early, so those decisions are made with the numbers in front of you.
+
+### Forming a business the right way
+
+If you are starting a business, we walk you through the choices before anything is filed. We talk about how the business is structured, how that choice affects your taxes, and what you will need to have in place for state and federal filings, sales tax and payroll. Starting with a clear plan makes the first year much less stressful.
+
+### Retirement planning alongside your financial advisor
+
+Your business is likely a big part of your retirement picture. With your permission, we meet with your financial advisor so everyone is working from the same information. We bring the tax and business side, your advisor brings the investment side, and you get one coordinated plan instead of two separate conversations.
+
+### Succession planning for business owners
+
+Whether you plan to sell, bring in a partner or hand the business to family or employees, we help you map out the steps well ahead of time. We look at who takes over, how ownership transfers and what the tax impact will be, so the transition is a choice you make and not something that happens to you.
+
+<!-- block: content-prose -->
+## Estate planning that brings tax planning and succession together
+
+Estate planning works best when the tax picture and the succession plan are considered together. We advise you on how your assets may pass to the next generation, what the tax consequences could be, and how your plans for the business fit with your plans for your family. We work with your attorney and financial advisor, so each piece supports the others.
+
+The earlier we start, the more choices you have. Call us for a free consultation and we will take the time to walk you through it.
+
 <!-- block: content-split | variant: image-left | image: rancher-pasture-planning.jpg | alt: "Rancher standing in a dry pasture reviewing paperwork beside a fence line" | query: "rancher reviewing paperwork in pasture" -->
 ## Advisory for farms and ranches, from drought deferrals to succession
 
