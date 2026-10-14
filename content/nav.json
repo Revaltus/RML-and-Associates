@@ -23,16 +23,6 @@
       ]
     },
     {
-      "label": "Industries",
-      "url": "/",
-      "children": [
-        {
-          "label": "Agriculture",
-          "url": "/agriculture"
-        }
-      ]
-    },
-    {
       "label": "Careers",
       "url": "/employment-opportunities"
     },
@@ -47,10 +37,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Privacy statement",
-      "url": "/privacy-statement"
     },
     {
       "label": "Meet the team",
