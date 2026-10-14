@@ -73,6 +73,10 @@
     {
       "label": "Real Estate",
       "url": "/industries/real-estate"
+    },
+    {
+      "label": "Restaurants",
+      "url": "/industries/restaurants"
     }
   ],
   "cta": {
