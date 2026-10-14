@@ -1,24 +1,50 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "RML and Associates CPAs LLC",
+    "tagline": "Accounting, tax, and advisory is what we do best.",
+    "foundingYear": "Unknown"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "505 S. 3rd Street, Suite 100",
+      "city": "Laramie",
+      "state": "WY",
+      "zip": "82070"
+    },
+    "phone": "(307) 755-1040",
+    "fax": "(307) 742-4944",
+    "email": "info@rmlcpas.com",
+    "hours": "Mon-Fri 8 AM-12 PM, 1-5 PM; Sat-Sun Closed"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "primary": "#066264",
+    "secondary": "#003e40",
+    "complementary": "#cef0f0",
+    "action": "#be5329",
+    "nearBlack": "#0e1b1b",
+    "nearWhite": "#f6fbfb"
   },
-  "social": [],
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/rmlcpas/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/rmlcpas/"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.google.com/?cid=6720600352234637672&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/rmlcpas"
+    }
+  ],
   "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "logo": {
+    "primary": "RML-Logo.png",
+    "alt": "RML and Associates CPAs LLC logo"
+  }
 }

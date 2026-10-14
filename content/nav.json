@@ -1,9 +1,48 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
-  ]
+    {
+      "label": "Careers",
+      "url": "/employment-opportunities"
+    },
+    {
+      "label": "Personal income tax",
+      "url": "/personal-income-tax"
+    },
+    {
+      "label": "Business tax",
+      "url": "/business-tax"
+    },
+    {
+      "label": "Accounting and bookkeeping",
+      "url": "/accounting"
+    },
+    {
+      "label": "Forms, Documents, and Links",
+      "url": "/links"
+    },
+    {
+      "label": "Resources",
+      "url": "/resources"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact"
+    },
+    {
+      "label": "Privacy statement",
+      "url": "/privacy-statement"
+    },
+    {
+      "label": "Advisory services",
+      "url": "/advisory"
+    },
+    {
+      "label": "Meet the team",
+      "url": "/meet-the-team"
+    }
+  ],
+  "cta": {
+    "label": "Schedule a consultation",
+    "url": "/contact"
+  }
 }
