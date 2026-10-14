@@ -57,6 +57,10 @@
     {
       "label": "Home",
       "url": "/"
+    },
+    {
+      "label": "Agriculture",
+      "url": "/industries/agriculture"
     }
   ],
   "cta": {
