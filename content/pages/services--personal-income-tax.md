@@ -45,15 +45,6 @@ The moments that cause the most trouble are big ones. A sale closes. You buy a s
 
 Call us while the deal is still open. We'll talk through how the deal may affect your return, so you can decide with the full picture. We won't promise a savings number, because honest planning starts with your facts.
 
-<!-- block: content-split | variant: image-right | image: laramie-cpa-office.jpg | alt: "Local CPA greeting a client in a bright Laramie office" | query: "friendly accountant greeting client office" -->
-## Why choose a local CPA who answers when you call?
-
-RML is locally owned. The same team is here year-round, and we're an independent member of the BDO Alliance USA. Our core values are professionalism, responsiveness and quality, and they show up in small ways: a call returned, a question answered in plain English, a return walked through with you.
-
-Because the firm is self-owned, service fits each client rather than a script. A first-time filer and a rancher with several income sources get different conversations.
-
-Looking for affordable tax return prep in Laramie? Start with the free consultation. You'll hear what the work involves and what to expect before you commit to anything.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Personal income tax
 
