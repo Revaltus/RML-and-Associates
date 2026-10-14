@@ -35,8 +35,6 @@ The details change by operation. For ranchers, we keep records that support drou
 
 Starting payroll, or changing how you run it, is where small mistakes turn into big notices. If you are looking for payroll services, we help you get up and running by walking you through the setup. When you have questions, our team is here to help with support to keep your payroll process on track.
 
-Because state and federal payroll tax is already part of our [Business Tax](/business-tax) work, your deposits and filings stay accurate and on time. If a payroll question comes up later, call us and we will walk through it with you.
-
 <!-- block: service-cards | variant: 2-col -->
 ## Accounting for non-profits and real estate investors
 
@@ -53,7 +51,7 @@ Agents and brokers deal with irregular, commission-based 1099 income that makes 
 <!-- block: content-split | variant: image-right | image: cloud-accounting-migration.jpg | alt: "Accountant showing an owner online accounting software on a laptop screen" | query: "accountant cloud accounting software laptop client" -->
 ## How do I move from desktop software to cloud accounting?
 
-Still running QuickBooks Desktop and wondering if it is time to move online? It may be, and the switch does not have to be stressful. Liz Powers, CPA, guides our cloud-accounting work. We look at how your current file is set up, clean up old accounts, duplicates and uncleared items, then move your data to an online system. Before you go live, we check that your opening balances match, so your reports still tie out. You keep your history, your books stay accurate through the change, and we explain each step in plain language.
+Still running your accounting on an offline desktop application and wondering if it is time to move online? It may be, and the switch does not have to be stressful. We look at how your current file is set up, clean up old accounts, duplicates and uncleared items, then move your data to an online system. Before you go live, we check that your opening balances match, so your reports still tie out. You keep your history, your books stay accurate through the change, and we explain each step.
 
 <!-- block: checklist-section | variant: with-image-left | image: laramie-accounting-team.jpg | alt: "Smiling accounting team members talking with a client in a bright office" | query: "friendly accounting team meeting client office" -->
 ## Why Laramie clients stay with us
