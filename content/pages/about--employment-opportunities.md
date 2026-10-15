@@ -55,9 +55,7 @@ A: RML values work-life balance, professional development and a supportive envir
 <!-- block: cta-banner | variant: image-bg | image: laramie-wyoming-main-street.jpg | alt: "Quiet downtown street in Laramie, Wyoming with mountains in the distance" | query: "Laramie Wyoming downtown street" -->
 ## How to apply
 
-Send us a resume and a short note about the area that interests you most, whether that is tax, accounting, advisory or non-profit work. Call (307) 755-1040 or reach us through the [contact page](/contact). Not sure where you'd fit? Talk it through with us first.
-
-[Schedule a consultation](/contact)
+Please visit this [link](https://rmlcpas.bamboohr.com/careers) to view our current openings and submit your application. Thank you for your interest in joining the RML and Associates team!
 
 ---
 ## SEO & AIO Metadata
