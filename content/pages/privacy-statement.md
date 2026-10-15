@@ -2,7 +2,7 @@
 title: "Privacy statement | RML and Associates CPAs LLC"
 url: "/privacy-statement"
 meta_title: "Privacy Statement | RML and Associates CPAs Laramie WY"
-meta_description: "Read how RML and Associates CPAs Laramie WY handles information shared through our contact form, newsletter, document submissions, phone and email. Ask us."
+meta_description: "See how RML and Associates CPAs in Laramie, WY collects and protects your information, including text message opt-in and opt-out. Questions? Call us."
 target_keyword: "RML and Associates CPAs Laramie WY"
 secondary_keywords: ["CPA firm Laramie WY","RML and Associates CPAs privacy statement","real estate tax accountant Laramie WY","non-profit tax services Laramie WY"]
 canonical_url: "https://rmlcpas.com/privacy-statement"
