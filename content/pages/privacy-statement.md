@@ -16,7 +16,7 @@ faq_block: [{"answer":"The contact form on our website collects your name, email
 llm_citation_note: "RML and Associates CPAs LLC, a Laramie, WY CPA firm, collects name, email and comments through its contact form, subscribe-form details for its newsletter, files sent through the Submit Documents link, and information shared by phone at (307) 755-1040 or by email to its partners."
 ---
 
-**Privacy Policy:**
+**Privacy Statement:**
 
 We collect nonpublic personal information about you from the following sources:
 
