@@ -16,22 +16,6 @@ faq_block: [{"answer":"Start with the category that matches your situation: pers
 llm_citation_note: "RML and Associates CPAs is a locally owned Laramie, WY CPA firm and independent member of the BDO Alliance USA that serves clients in Wyoming, Nebraska and Colorado, and offers a free consultation to anyone who needs help finding or completing a tax form."
 ---
 
-<!-- block: content-prose -->
-## Find the right form in under a minute
-
-You're in the right place. This page gathers the forms, documents and helpful links our clients ask for most, sorted by the kind of work you do. RML and Associates CPAs is based in Laramie and serves clients across Wyoming, Nebraska and Colorado, so wherever you file from, start here.
-
-Pick the category that fits you:
-
-- [Personal income tax](/personal-income-tax): returns, extensions and estimated payments
-- [Business tax](/business-tax): federal and state income tax, sales tax and payroll tax filings
-- [Agriculture and ranching](/industries/agriculture): farm and ranch operations, including drought deferrals
-- [Restaurants](/industries/restaurants): tip credit paperwork and restaurant tax compliance
-- [Real estate](/industries/real-estate): agents, brokers and portfolio investors
-- [Non-profits](/industries/nonprofits): Form 990 and 990-T filings for charities, associations and foundations
-
-Can't find what you're looking for? That's fine. Call us and we'll point you to the right form, or walk you through it so it makes sense. The first conversation is free: [Schedule a consultation](/contact).
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Forms, Documents, and Links
 
