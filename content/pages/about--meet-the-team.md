@@ -19,7 +19,7 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned L
 <!-- block: intro-text | variant: centered -->
 ## The people who know your numbers and your name
 
-When you call RML and Associates CPAs, someone who knows your file picks up. We are a locally owned, self-owned CPA firm in Laramie, Albany County, serving clients across Wyoming, Nebraska and Colorado, so the work gets shaped around you instead of squeezed into a template. This page introduces the CPA firm Laramie WY team behind it. If you want to meet the CPAs in Laramie, Wyoming who handle ranch returns, restaurant tip credits, rental portfolios and non-profit filings, start here. Accounting, tax, and advisory is what we do best. These are the people who do it.
+When you call RML and Associates CPAs, you'll talk to someone who knows your file.  With a shared dedication to our core values of professionalism, responsiveness and quality, we work together to help our clients move forward with confidence. Meet the professionals who are here to support you.
 
 <!-- block: team-grid | variant: 2-col -->
 ## Your Laramie CPA team
@@ -28,21 +28,59 @@ Our Laramie CPA firm staff pairs a CPA, a CGMA and a professional with BDO USA P
 
 ### Megan Hanneman, CGMA
 photo: megan-hanneman-avatar.svg
-[CLIENT TO SUPPLY: title]
+Shareholder
 
 Megan holds the CGMA designation, which centers on management accounting. She works with management teams, not just owners, on budgeting, forecasting, KPI dashboards and cost analysis, so decisions rest on numbers instead of instinct. Works most with: [CLIENT TO SUPPLY].
 
 ### Liz Powers, CPA
-[CLIENT TO SUPPLY: title]
+Shareholder
 
 Liz is a CPA who guides businesses moving from desktop software such as QuickBooks Desktop or Sage to cloud platforms like QuickBooks Online. She also supports ongoing virtual CFO and outsourced accounting work and connects the software behind it, so routine tasks run on their own. Works most with: [CLIENT TO SUPPLY].
 
+### Anjelica
+Shareholder
+Describe this team member.
+
+### Bradley
+Tax Senior
+Describe this team member.
+
+### Ann
+Accounting Services Senior
+Describe this team member.
+
 ### Sherrie McKinney
 photo: sherrie-mckinney-avatar.svg
-[CLIENT TO SUPPLY: title]
+Accounting Services Senior
 
 Sherrie brings experience from BDO USA's Private Client Services division, which is a real advantage when a personal income tax return has more moving parts than a single W-2. She also handles ongoing bill-pay, cash-flow tracking and reporting for clients who want a steady hand on the day-to-day. Works most with: [CLIENT TO SUPPLY].
 
+### Oskar
+Tax Associate
+Describe this team member.
+
+### Kalen
+Experienced Tax Associate
+Describe this team member.
+
+### Jacob
+Tax Associate
+Describe this team member.
+
+### Jersey
+Tax Associate
+Describe this team member.
+
+### 
+Describe this team member.
+
+### Trevor
+Tax Associate
+Describe this team member.
+
+### MarJean
+Tax Manager
+Describe this team member.
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Meet the team
 
