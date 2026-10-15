@@ -13,7 +13,7 @@ hero_eyebrow: "Laramie, WY · Since Unknown"
 hero_image: "laramie-cpa-client-meeting.jpg"
 hero_image_alt: "Accountant sitting with a client at a desk reviewing tax documents together"
 hero_subhead: "Know where your numbers stand and what's coming next, with a Laramie CPA who answers the phone"
-hero_headline: "Locally owned, so your plan fits your situation"
+hero_headline: "Your local Laramie tax accountants"
 answer_block: "RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie, WY. It provides accounting and bookkeeping, business and personal income tax, and advisory services to clients across Wyoming, Nebraska and Colorado. New clients can start with a free consultation by calling (307) 755-1040."
 eeat_signals: ["Locally owned and self-owned CPA firm based in Laramie, WY","Independent member of the BDO Alliance USA","Licensed in Wyoming, serving clients in Wyoming, Nebraska and Colorado","Core values of professionalism, responsiveness and quality","Team includes Liz Powers, CPA, and Megan Hanneman, CGMA","Specialized experience in agriculture, restaurants, retail, professional services, real estate and nonprofits","Nonprofit client testimonial praising the RML team"]
 internal_links: [{"url":"/accounting","reason":"Routes readers to the accounting service page from the services block","anchor_text":"Explore accounting"},{"url":"/business-tax","reason":"Connects the business tax card to its service page","anchor_text":"Explore business tax"},{"url":"/personal-income-tax","reason":"Connects the personal income tax card to its service page","anchor_text":"Explore personal income tax"},{"url":"/advisory","reason":"Connects the advisory card to its service page","anchor_text":"Explore advisory"}]
@@ -22,9 +22,9 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned, 
 ---
 
 <!-- block: content-split | variant: image-right | image: local-cpa-consultation.jpg | alt: "CPA greeting a client across a desk in a bright office" | query: "friendly accountant meeting client office" -->
-## Locally owned, so your plan fits your situation
+## Your local Laramie tax accountants
 
-If you've searched for a tax accountant near me Laramie, you probably want a real person who knows your name and picks up the phone. RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie, WY. The people who prepare your work are the people who decide how it gets done, so your accounting, tax and advisory work is built around your situation, not a standard package. We're also an independent member of the BDO Alliance USA, and ownership stays right here in town.
+If you've searched for a tax accountant near me, you probably want a real person who knows your name and picks up the phone. RML and Associates CPAs LLC is a locally owned CPA firm in Laramie, WY, serving clients across Wyoming, Nebraska and Colorado. The people who prepare your work are the people who decide how it gets done, so your accounting, tax and advisory work is built around your specific situation.
 
 We look ahead so you can plan with confidence.
 
@@ -34,10 +34,8 @@ Three values guide every file:
 - **Responsiveness.** Ask a question and you get an answer, not a runaround.
 - **Quality.** Careful work, return after return, from a team that stays put.
 
-Looking for a CPA firm Laramie WY owners and households already rely on? Start here.
-
 <!-- block: service-cards | variant: 3-col -->
-## Accounting and bookkeeping, business tax and personal income tax, and advisory services handled all year
+## Accounting, tax, and advisory services handled all year
 
 ### Accounting and bookkeeping
 icon: Calculator
@@ -94,15 +92,6 @@ icon: ShieldCheck
 
 Looking for a CPA for non-profit organizations near me? Form 990 and 990-T filings are complex, and a late or wrong filing can put your tax-exempt status at risk. We step in when a funder requires an audit or a finance staff member leaves. Compliance without the stress. [See how we work with nonprofits](/industries/nonprofits)
 
-<!-- block: testimonials | variant: grid -->
-## Trusted in Laramie and across Wyoming, Nebraska and Colorado
-
-> “The entire RML team had been incredible to work with for all my nonprofit accounting needs.”
->
-> Nonprofit client
-
-Laramie is home base, and we serve clients across Wyoming, Nebraska and Colorado. Every file gets the same integrity, honesty and responsiveness, whether you're down the street or a few hours down the highway.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Laramie CPA firm for tax preparation and bookkeeping
 
@@ -129,7 +118,7 @@ A: Use the Submit Documents link on our site to send files securely whenever it 
 
 Your first conversation costs nothing. We listen, learn your situation and tell you what to expect next, so you leave knowing your options.
 
-Call (307) 755-1040, or [send us a message through the contact form](/contact). Already a client? [Submit documents](/links) whenever it suits you.
+Call (307) 755-1040, or schedule some time to visit.
 
 [Schedule a consultation](/contact)
 
