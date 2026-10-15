@@ -17,13 +17,9 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned C
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Build your accounting career with a locally owned Laramie team
+## Build your accounting career with RML and Associates
 
-If you're searching for accounting jobs in Laramie, WY, the options can feel limited. RML and Associates CPAs LLC is locally owned and self-owned, so decisions are made here, by people you'll actually work beside.
-
-Our experienced team serves clients with integrity, honesty and excellent work. Three core values set the standard we hold each other to: professionalism, responsiveness and quality. Professionalism means showing up prepared. Responsiveness means a client's question gets a real answer, quickly. Quality means we'd rather spend another hour than send out something we're unsure about.
-
-Accounting, tax, and advisory is what we do best. If that's the work you want to do, keep reading.
+We are a dynamic and growing public accounting firm in Laramie, Wyoming, dedicated to providing high-quality accounting, bookkeeping, and tax services to a diverse range of clients. Our firm is built on a foundation of accuracy, integrity, and exceptional client service, and we take pride in fostering a collaborative and supportive work environment.
 
 <!-- block: content-split | variant: image-right | image: laramie-accounting-team-office.jpg | alt: "Accounting colleagues talking together at a desk in a bright office" | query: "accounting colleagues collaborating office desk" -->
 ## Work-life balance and a supportive environment
@@ -39,10 +35,9 @@ There are no slogans and no program names. It is a team that looks out for each 
 
 A staff accountant or tax accountant here doesn't spend the year on one type of return. You'll see how different clients operate, and that variety speeds up your growth. It also builds the judgment to spot what a client should do next, not just what they owe.
 
-### Business Tax
+### Accounting Services Associate
 icon: Briefcase
 
-State and federal income tax returns, local and state sales tax compliance, state and federal payroll tax, and profit and loss statements. [See Business Tax](/business-tax).
 
 ### Personal Income Tax
 icon: FileText
