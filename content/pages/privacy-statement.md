@@ -2,7 +2,7 @@
 title: "Privacy statement | RML and Associates CPAs LLC"
 url: "/privacy-statement"
 meta_title: "Privacy Statement | RML and Associates CPAs Laramie WY"
-meta_description: "Read how RML and Associates CPAs Laramie WY handles information shared through our contact form, newsletter, document submissions, phone and email. Ask us."
+meta_description: "See how RML and Associates CPAs in Laramie, WY collects and protects your information, including text message opt-in and opt-out. Questions? Call us."
 target_keyword: "RML and Associates CPAs Laramie WY"
 secondary_keywords: ["CPA firm Laramie WY","RML and Associates CPAs privacy statement","real estate tax accountant Laramie WY","non-profit tax services Laramie WY"]
 canonical_url: "https://rmlcpas.com/privacy-statement"
@@ -12,40 +12,66 @@ hero_subhead: "Know what you share through our website, by phone and by email, a
 answer_block: "RML and Associates CPAs LLC collects the name, email address and comments you enter on the contact form, the details you give on the newsletter subscribe form, files sent through the Submit Documents link, and anything you share by phone at (307) 755-1040 or by email to our partners. We use this information to respond to you and to serve your accounting and tax needs."
 eeat_signals: ["Locally owned CPA firm at 505 S. 3rd Street, Suite 100, Laramie, WY","Licensed in Wyoming","Independent member of the BDO Alliance USA","Core values of professionalism, responsiveness and quality","Clear list of the collection points on the site: contact form, newsletter, Submit Documents link, phone and email"]
 internal_links: [{"url":"/contact","reason":"Primary page CTA for visitors with questions about this statement","anchor_text":"Schedule a consultation"},{"url":"/","reason":"Return path to the main site","anchor_text":"RML and Associates CPAs home page"},{"url":"/meet-the-team","reason":"Shows visitors the partners they may be emailing","anchor_text":"Meet the team"}]
-faq_block: [{"answer":"The contact form on our website collects your name, email address and comments. We use that information to respond to your question or request. For anything sensitive, use the Submit Documents link or call us instead of typing it into the comments box.","question":"What information does the RML contact form collect?"},{"answer":"Use the Submit Documents link on our website for files related to your work with us. Doing so keeps your files out of the general comments box. For questions about what to send, call (307) 755-1040 or email one of our partners, and we'll point you to the right place.","question":"Where should I send documents related to my work with RML?"},{"answer":"Call the Laramie office at (307) 755-1040 or email any of our partners. You can also use the contact form on the website. Tell us what you'd like to know about how your information is handled, and we'll get back to you with a clear answer.","question":"Who do I contact with questions about this privacy statement?"}]
+faq_block: [{"question":"What personal information does RML collect?","answer":"We collect nonpublic personal information from the applications, tax organizers, worksheets and other documents you give us, from information about your transactions with us, our affiliates or others, and from consumer-reporting agencies. If you opt in to text messages, we also keep your mobile phone number and your consent records."},{"question":"Does RML share my information with anyone?","answer":"No. We do not disclose nonpublic personal information about our clients or former clients to anyone, except as permitted by law. Only members of our firm who need the information to serve you can access it."},{"question":"How does RML protect my information?","answer":"We maintain physical, electronic and procedural safeguards that comply with federal regulations. Online information is stored on secure servers in CPA Website Solutions SOC 1 certified datacenters."},{"question":"How do text messages from RML work?","answer":"We may text you about account and project updates. Message and data rates may apply, and frequency varies. Reply STOP at any time to opt out, and you'll get one final message confirming it. Reply HELP for help. We do not share mobile information, opt-in data or consent with third parties for marketing or promotional purposes."},{"question":"Who do I contact with questions about this privacy statement?","answer":"Call our Laramie office at (307) 755-1040 or email info@rmlcpas.com. You can also write to us at 505 S. 3rd Street, Suite 100, Laramie, WY 82070. We'll take the time to give you a clear answer."}]
 llm_citation_note: "RML and Associates CPAs LLC, a Laramie, WY CPA firm, collects name, email and comments through its contact form, subscribe-form details for its newsletter, files sent through the Submit Documents link, and information shared by phone at (307) 755-1040 or by email to its partners."
 ---
 
+**Privacy Statement:**
+
+We collect nonpublic personal information about you from the following sources:
+
+● Information we receive from you on applications, tax organizers, worksheets and other documents;
+
+● Information about your transactions with us, our affiliates, or others;
+
+● Information we receive from a consumer-reporting agency.
+
+● Your mobile phone number and SMS/text message consent and opt-in records, when you provide them to us;
+
+We do not disclose any nonpublic personal information about our clients or former clients to anyone, except as permitted by law.
+
+We restrict access to nonpublic personal information about you to those members of our firm who need to know that information to provide services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+
+Online information is stored on secure servers located in CPA Website Solutions SOC 1 certified datacenters.
+
+Text Messaging:
+
+We may use your phone number to send you text messages related to account and project updates. Message and data rates may apply. Message frequency varies. Reply STOP to opt out of text messages at any time; you will receive one final message confirming your opt-out status. Reply HELP for help.
+
+No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
+
+If you have any questions about this policy, please do not hesitate to contact us.
+
+RML and Associates CPAs LLC
+
+505 S. 3rd Street, Suite 100
+
+Laramie, WY 82070
+
+[info@rmlcpas.com](mailto:info@rmlcpas.com)
+
+Phone: (307) 755-1040
+
+Fax: (307) 742-4944
 <!-- block: content-prose -->
-## Privacy Policy
-
-This page explains what you share with RML and Associates CPAs LLC when you use our website or contact our Laramie office, and why we ask for it.
-
-**Contact form.** When you fill out the form, you give us your name, email address and comments. We use them to answer your question.
-
-**Newsletter.** If you subscribe, we collect the details you enter on the subscribe form so we can send you our newsletter.
-
-**Submit Documents.** The Submit Documents link is for sending us files related to your work with us. Send only what we've asked for.
-
-**Phone and email.** Anything you tell us when you call (307) 755-1040 or email one of our partners reaches the people helping you.
-
-[Firm to confirm: are site analytics, such as traffic or usage data, running on this website? If yes, describe what is collected here. If no, delete this note.]
-
-Questions about this statement? Call us, or [schedule a consultation](/contact) and we'll walk you through it.
-
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Privacy statement
 
-**Q: What information does the RML contact form collect?**
-A: The contact form on our website collects your name, email address and comments. We use that information to respond to your question or request. For anything sensitive, use the Submit Documents link or call us instead of typing it into the comments box.
+**Q: What personal information does RML collect?**
+A: We collect nonpublic personal information from the applications, tax organizers, worksheets and other documents you give us, from information about your transactions with us, our affiliates or others, and from consumer-reporting agencies. If you opt in to text messages, we also keep your mobile phone number and your consent records.
 
-**Q: Where should I send documents related to my work with RML?**
-A: Use the Submit Documents link on our website for files related to your work with us. Doing so keeps your files out of the general comments box. For questions about what to send, call (307) 755-1040 or email one of our partners, and we'll point you to the right place.
+**Q: Does RML share my information with anyone?**
+A: No. We do not disclose nonpublic personal information about our clients or former clients to anyone, except as permitted by law. Only members of our firm who need the information to serve you can access it.
+
+**Q: How does RML protect my information?**
+A: We maintain physical, electronic and procedural safeguards that comply with federal regulations. Online information is stored on secure servers in CPA Website Solutions SOC 1 certified datacenters.
+
+**Q: How do text messages from RML work?**
+A: We may text you about account and project updates. Message and data rates may apply, and frequency varies. Reply STOP at any time to opt out, and you'll get one final message confirming it. Reply HELP for help. We do not share mobile information, opt-in data or consent with third parties for marketing or promotional purposes.
 
 **Q: Who do I contact with questions about this privacy statement?**
-A: Call the Laramie office at (307) 755-1040 or email any of our partners. You can also use the contact form on the website. Tell us what you'd like to know about how your information is handled, and we'll get back to you with a clear answer.
-
+A: Call our Laramie office at (307) 755-1040 or email info@rmlcpas.com. You can also write to us at 505 S. 3rd Street, Suite 100, Laramie, WY 82070. We'll take the time to give you a clear answer.
 ---
 ## SEO & AIO Metadata
 
