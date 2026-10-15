@@ -92,15 +92,6 @@ icon: ShieldCheck
 
 Looking for a CPA for non-profit organizations near me? Form 990 and 990-T filings are complex, and a late or wrong filing can put your tax-exempt status at risk. We step in when a funder requires an audit or a finance staff member leaves. Compliance without the stress. [See how we work with nonprofits](/industries/nonprofits)
 
-<!-- block: testimonials | variant: grid -->
-## Trusted in Laramie and across Wyoming, Nebraska and Colorado
-
-> “The entire RML team had been incredible to work with for all my nonprofit accounting needs.”
->
-> Nonprofit client
-
-Laramie is home base, and we serve clients across Wyoming, Nebraska and Colorado. Every file gets the same integrity, honesty and responsiveness, whether you're down the street or a few hours down the highway.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Laramie CPA firm for tax preparation and bookkeeping
 
