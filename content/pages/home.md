@@ -118,7 +118,7 @@ A: Use the Submit Documents link on our site to send files securely whenever it 
 
 Your first conversation costs nothing. We listen, learn your situation and tell you what to expect next, so you leave knowing your options.
 
-Call (307) 755-1040, or [send us a message through the contact form](/contact). Already a client? [Submit documents](/links) whenever it suits you.
+Call (307) 755-1040, or schedule some time to visit.
 
 [Schedule a consultation](/contact)
 
