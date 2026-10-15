@@ -22,7 +22,7 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned C
 We are a dynamic and growing public accounting firm in Laramie, Wyoming, dedicated to providing high-quality accounting, bookkeeping, and tax services to a diverse range of clients. Our firm is built on a foundation of accuracy, integrity, and exceptional client service, and we take pride in fostering a collaborative and supportive work environment.
 
 <!-- block: service-cards | variant: 3-col -->
-## Work that spans tax, accounting and advisory
+## Current positions available 
 
 A staff accountant or tax accountant here doesn't spend the year on one type of return. You'll see how different clients operate, and that variety speeds up your growth. It also builds the judgment to spot what a client should do next, not just what they owe.
 
