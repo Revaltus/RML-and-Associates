@@ -40,7 +40,7 @@ We prepare your [personal income tax](/personal-income-tax) return alongside the
 You get accurate, on-time returns, filed electronically with direct deposit for any refund. If you need more time, we file the extension. We also calculate your estimated tax payments, so you are paying based on what the practice is earning now, not a guess from last year. Income that swings by month is exactly why those estimates matter.
 
 <!-- block: content-split | variant: image-right | image: practice-financial-planning.jpg | alt: "Two accountants and a practice owner reviewing financial reports on a laptop in an office" | query: "accountants reviewing financial reports with client" -->
-## Accounting and advisory that help you plan ahead
+## Accounting and advisory that helps you plan ahead
 
 We look ahead so you can plan with confidence. For a professional service business, that means knowing whether you can hire another associate, replace the equipment or open a second location before you commit, not after.
 
