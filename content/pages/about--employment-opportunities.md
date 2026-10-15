@@ -19,7 +19,9 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned C
 <!-- block: intro-text | variant: centered -->
 ## Build your accounting career with RML and Associates
 
-We are a dynamic and growing public accounting firm in Laramie, Wyoming, dedicated to providing high-quality accounting, bookkeeping, and tax services to a diverse range of clients. Our firm is built on a foundation of accuracy, integrity, and exceptional client service, and we take pride in fostering a collaborative and supportive work environment.
+We are a dynamic and growing public accounting firm in Laramie, Wyoming, dedicated to providing high-quality accounting, bookkeeping, and tax services to a diverse range of clients. Our firm is built on a foundation of accuracy, integrity, and exceptional client service.
+
+At RML and Associates, we value work-life balance, professional development and a supportive environment. We know the market is competitive, and we want you to feel valued and respected as part of our team. That's why we offer a 2,080 hour contract with a hybrid schedule that fits your needs. We also have great benefits, flexible scheduling, and a mentorship program to help you meet your career goals. 
 
 <!-- block: service-cards | variant: 3-col -->
 ## Current positions available 
@@ -30,32 +32,7 @@ A staff accountant or tax accountant here doesn't spend the year on one type of 
 icon: Briefcase
 
 
-### Personal Income Tax
-icon: FileText
-
-Accurate, on-time returns, filing extensions and estimated tax calculations. Electronic filing and direct deposit keep it simple for clients. [See Personal Income Tax](/personal-income-tax).
-
-### Agriculture and ranching
-icon: MapPin
-
-Farming and ranching operations with seasonal income, including drought deferrals. You'll learn how the timing of a sale changes a tax bill. [See agriculture](/industries/agriculture).
-
-### Restaurants
-icon: Receipt
-
-Tip credits, sales tax and payroll tax for owners who run on thin margins and long hours. [See restaurants](/industries/restaurants).
-
-### Real estate
-icon: Building
-
-Agents, brokers and portfolio investors. You'll help model the tax impact of buying, flipping, holding or exchanging a property before the deal closes. [See real estate](/industries/real-estate).
-
-### Non-profit organizations
-icon: ShieldCheck
-
-Form 990 and 990-T preparation and state compliance, so a charity or association keeps its tax-exempt status without the stress. Candidates interested in non-profit accounting jobs in Wyoming will find real depth here. [See non-profits](/industries/nonprofits).
-
-<!-- block: content-split | variant: image-left | image: cpa-mentoring-review.jpg | alt: "Senior accountant reviewing financial reports with a newer team member" | query: "senior accountant mentoring junior colleague" -->
+As an Accounting Services Associate, you will oversee the full cycle of bookkeeping and accounting functions for multiple clients across various industries. This role requires a strong understanding of financial record-keeping, payroll processing, reconciliations, and financial statement preparation. The ideal candidate is organized, proactive, and capable of managing multiple priorities while working both independently and collaboratively within our team.<!-- block: content-split | variant: image-left | image: cpa-mentoring-review.jpg | alt: "Senior accountant reviewing financial reports with a newer team member" | query: "senior accountant mentoring junior colleague" -->
 ## Learn from an experienced team and the BDO Alliance USA
 
 RML is an independent member of the BDO Alliance USA, so you're part of a local firm with a national network behind it. The team brings real range. Megan Hanneman holds the CGMA credential and works on budgeting, forecasting and decision support for management teams. Liz Powers, CPA, brings cloud accounting expertise, including moving clients from desktop software to online platforms. Sherrie McKinney's background includes BDO USA's Private Client Services division.
