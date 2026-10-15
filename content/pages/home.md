@@ -24,7 +24,7 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned, 
 <!-- block: content-split | variant: image-right | image: local-cpa-consultation.jpg | alt: "CPA greeting a client across a desk in a bright office" | query: "friendly accountant meeting client office" -->
 ## Your local Laramie tax accountants
 
-If you've searched for a tax accountant near me Laramie, you probably want a real person who knows your name and picks up the phone. RML and Associates CPAs LLC is a locally owned, self-owned CPA firm in Laramie, WY. The people who prepare your work are the people who decide how it gets done, so your accounting, tax and advisory work is built around your situation, not a standard package. We're also an independent member of the BDO Alliance USA, and ownership stays right here in town.
+If you've searched for a tax accountant near me, you probably want a real person who knows your name and picks up the phone. RML and Associates CPAs LLC is a locally owned CPA firm in Laramie, WY, serving clients across Wyoming, Nebraska and Colorado. The people who prepare your work are the people who decide how it gets done, so your accounting, tax and advisory work is built around your specific situation.
 
 We look ahead so you can plan with confidence.
 
@@ -34,10 +34,8 @@ Three values guide every file:
 - **Responsiveness.** Ask a question and you get an answer, not a runaround.
 - **Quality.** Careful work, return after return, from a team that stays put.
 
-Looking for a CPA firm Laramie WY owners and households already rely on? Start here.
-
 <!-- block: service-cards | variant: 3-col -->
-## Accounting and bookkeeping, business tax and personal income tax, and advisory services handled all year
+## Accounting, tax, and advisory services handled all year
 
 ### Accounting and bookkeeping
 icon: Calculator
