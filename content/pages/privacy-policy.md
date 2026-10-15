@@ -23,7 +23,7 @@ We collect nonpublic personal information about you from the following sources:
 
 We restrict access to nonpublic personal information about you to those members of our firm who need to know that information to provide services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
 
-Online information is stored on secure servers located in \[insert storage location\] certified data centers.
+Online information is stored on secure servers located in **\[insert storage location\]** certified data centers.
 
 **Text Messaging:**\
 \
