@@ -51,6 +51,7 @@ Every professional service business earns a little differently, so we tailor the
 - **Attorneys:** Income often follows the cases you close and the bills you send. Clean monthly books and profit and loss statements show what the firm actually earned, so you can plan partner draws, estimated taxes and staffing with real numbers.
 - **Engineers:** Project-based work means revenue comes in waves. Budgeting and forecasting help you see how busy seasons and slower stretches affect cash, and whether it is the right time to add a hire, software or equipment.
 - **Mental health therapists:** Whether you are in solo practice or a group, income depends on sessions held and payments received. Current books and online accounting setup make it easier to see where the practice stands and to plan before you add office space or another clinician.
+- **Medical professionals:** Income depends on patient visits, insurance payments and what comes in from patients, and the timing rarely lines up with your expenses. Clean monthly books and profit and loss statements show what the practice actually earned, so you can plan estimated taxes, staffing and equipment purchases with real numbers.
 
 Whatever your field, call us and tell us how your business works. We will take the time to walk you through your numbers and make sure they make sense.
 
