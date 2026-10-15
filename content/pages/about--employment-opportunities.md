@@ -17,83 +17,22 @@ llm_citation_note: "RML and Associates CPAs LLC is a locally owned, self-owned C
 ---
 
 <!-- block: intro-text | variant: centered -->
-## Build your accounting career with a locally owned Laramie team
+## Build your accounting career with RML and Associates
 
-If you're searching for accounting jobs in Laramie, WY, the options can feel limited. RML and Associates CPAs LLC is locally owned and self-owned, so decisions are made here, by people you'll actually work beside.
+We are a dynamic and growing public accounting firm in Laramie, Wyoming, dedicated to providing high-quality accounting, bookkeeping, and tax services to a diverse range of clients. Our firm is built on a foundation of accuracy, integrity, and exceptional client service.
 
-Our experienced team serves clients with integrity, honesty and excellent work. Three core values set the standard we hold each other to: professionalism, responsiveness and quality. Professionalism means showing up prepared. Responsiveness means a client's question gets a real answer, quickly. Quality means we'd rather spend another hour than send out something we're unsure about.
-
-Accounting, tax, and advisory is what we do best. If that's the work you want to do, keep reading.
-
-<!-- block: content-split | variant: image-right | image: laramie-accounting-team-office.jpg | alt: "Accounting colleagues talking together at a desk in a bright office" | query: "accounting colleagues collaborating office desk" -->
-## Work-life balance and a supportive environment
-
-We know the market is competitive, especially in Laramie, and we want you to feel valued and respected from your first week. RML values work-life balance, professional development and a supportive environment. In a local firm, those words get tested every day.
-
-Here is what that looks like. You're known by name. Questions get answered quickly, because the people who know the answer are right there. In busy season, you're backed by colleagues who understand the pressure and step in when it counts.
-
-There are no slogans and no program names. It is a team that looks out for each other and for the clients we serve.
+At RML and Associates, we value work-life balance, professional development and a supportive environment. We know the market is competitive, and we want you to feel valued and respected as part of our team. That's why we offer a 2,080 hour contract with a hybrid schedule that fits your needs. We also have great benefits, flexible scheduling, and a mentorship program to help you meet your career goals. 
 
 <!-- block: service-cards | variant: 3-col -->
-## Work that spans tax, accounting and advisory
+## Current positions available 
 
 A staff accountant or tax accountant here doesn't spend the year on one type of return. You'll see how different clients operate, and that variety speeds up your growth. It also builds the judgment to spot what a client should do next, not just what they owe.
 
-### Business Tax
+### Accounting Services Associate
 icon: Briefcase
 
-State and federal income tax returns, local and state sales tax compliance, state and federal payroll tax, and profit and loss statements. [See Business Tax](/business-tax).
 
-### Personal Income Tax
-icon: FileText
-
-Accurate, on-time returns, filing extensions and estimated tax calculations. Electronic filing and direct deposit keep it simple for clients. [See Personal Income Tax](/personal-income-tax).
-
-### Agriculture and ranching
-icon: MapPin
-
-Farming and ranching operations with seasonal income, including drought deferrals. You'll learn how the timing of a sale changes a tax bill. [See agriculture](/industries/agriculture).
-
-### Restaurants
-icon: Receipt
-
-Tip credits, sales tax and payroll tax for owners who run on thin margins and long hours. [See restaurants](/industries/restaurants).
-
-### Real estate
-icon: Building
-
-Agents, brokers and portfolio investors. You'll help model the tax impact of buying, flipping, holding or exchanging a property before the deal closes. [See real estate](/industries/real-estate).
-
-### Non-profit organizations
-icon: ShieldCheck
-
-Form 990 and 990-T preparation and state compliance, so a charity or association keeps its tax-exempt status without the stress. Candidates interested in non-profit accounting jobs in Wyoming will find real depth here. [See non-profits](/industries/nonprofits).
-
-<!-- block: content-split | variant: image-left | image: cpa-mentoring-review.jpg | alt: "Senior accountant reviewing financial reports with a newer team member" | query: "senior accountant mentoring junior colleague" -->
-## Learn from an experienced team and the BDO Alliance USA
-
-RML is an independent member of the BDO Alliance USA, so you're part of a local firm with a national network behind it. The team brings real range. Megan Hanneman holds the CGMA credential and works on budgeting, forecasting and decision support for management teams. Liz Powers, CPA, brings cloud accounting expertise, including moving clients from desktop software to online platforms. Sherrie McKinney's background includes BDO USA's Private Client Services division.
-
-For a new hire, this means working next to seasoned CPAs who explain the why behind the work. You'll learn how to look ahead for a client: catching a drought deferral decision before year-end, or modeling a property sale before it closes. That habit is what lets clients plan with confidence, and it's what we teach.
-
-<!-- block: checklist-section | variant: with-image | image: accounting-intern-laramie.jpg | alt: "Student intern reviewing tax documents with an accountant at a desk" | query: "accounting intern student tax documents office" -->
-## Open positions and internships
-
-Openings change through the year. Call us at (307) 755-1040 to ask which roles are open right now. We talk with people in each of these groups:
-
-- Staff accountant: accounting work across our client industries, with room to grow into advisory.
-- Tax preparer: Business Tax and Personal Income Tax returns, from busy season through extensions.
-- CPA and experienced hire: for professionals who want to mentor and work closely with clients.
-- Student or intern: for anyone exploring accounting internships in Laramie, WY.
-
-Expect a real conversation about your experience and what you want to learn. If you don't see a role that fits, send us a general resume anyway. We'd like to know who you are.
-
-<!-- block: content-prose -->
-## Live and work in Laramie
-
-RML is part of this town. The team takes part in Laramie community events, including homecoming, because the people we work for are our neighbors. That's the local, personal side of the firm, and it shapes how we treat clients and each other.
-
-Whether you're relocating or planning to stay in Wyoming, you'll find a team that knows the area. Our clients are across Wyoming, Nebraska and Colorado, so the work reaches beyond Laramie while the team stays rooted here.
+As an Accounting Services Associate, you will oversee the full cycle of bookkeeping and accounting functions for multiple clients across various industries. This role requires a strong understanding of financial record-keeping, payroll processing, reconciliations, and financial statement preparation. The ideal candidate is organized, proactive, and capable of managing multiple priorities while working both independently and collaboratively within our team.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
@@ -116,9 +55,7 @@ A: RML values work-life balance, professional development and a supportive envir
 <!-- block: cta-banner | variant: image-bg | image: laramie-wyoming-main-street.jpg | alt: "Quiet downtown street in Laramie, Wyoming with mountains in the distance" | query: "Laramie Wyoming downtown street" -->
 ## How to apply
 
-Send us a resume and a short note about the area that interests you most, whether that is tax, accounting, advisory or non-profit work. Call (307) 755-1040 or reach us through the [contact page](/contact). Not sure where you'd fit? Talk it through with us first.
-
-[Schedule a consultation](/contact)
+Please visit this [link](https://rmlcpas.bamboohr.com/careers) to view our current openings and submit your application. Thank you for your interest in joining the RML and Associates team!
 
 ---
 ## SEO & AIO Metadata
