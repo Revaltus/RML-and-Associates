@@ -32,31 +32,7 @@ A staff accountant or tax accountant here doesn't spend the year on one type of 
 icon: Briefcase
 
 
-As an Accounting Services Associate, you will oversee the full cycle of bookkeeping and accounting functions for multiple clients across various industries. This role requires a strong understanding of financial record-keeping, payroll processing, reconciliations, and financial statement preparation. The ideal candidate is organized, proactive, and capable of managing multiple priorities while working both independently and collaboratively within our team.<!-- block: content-split | variant: image-left | image: cpa-mentoring-review.jpg | alt: "Senior accountant reviewing financial reports with a newer team member" | query: "senior accountant mentoring junior colleague" -->
-## Learn from an experienced team and the BDO Alliance USA
-
-RML is an independent member of the BDO Alliance USA, so you're part of a local firm with a national network behind it. The team brings real range. Megan Hanneman holds the CGMA credential and works on budgeting, forecasting and decision support for management teams. Liz Powers, CPA, brings cloud accounting expertise, including moving clients from desktop software to online platforms. Sherrie McKinney's background includes BDO USA's Private Client Services division.
-
-For a new hire, this means working next to seasoned CPAs who explain the why behind the work. You'll learn how to look ahead for a client: catching a drought deferral decision before year-end, or modeling a property sale before it closes. That habit is what lets clients plan with confidence, and it's what we teach.
-
-<!-- block: checklist-section | variant: with-image | image: accounting-intern-laramie.jpg | alt: "Student intern reviewing tax documents with an accountant at a desk" | query: "accounting intern student tax documents office" -->
-## Open positions and internships
-
-Openings change through the year. Call us at (307) 755-1040 to ask which roles are open right now. We talk with people in each of these groups:
-
-- Staff accountant: accounting work across our client industries, with room to grow into advisory.
-- Tax preparer: Business Tax and Personal Income Tax returns, from busy season through extensions.
-- CPA and experienced hire: for professionals who want to mentor and work closely with clients.
-- Student or intern: for anyone exploring accounting internships in Laramie, WY.
-
-Expect a real conversation about your experience and what you want to learn. If you don't see a role that fits, send us a general resume anyway. We'd like to know who you are.
-
-<!-- block: content-prose -->
-## Live and work in Laramie
-
-RML is part of this town. The team takes part in Laramie community events, including homecoming, because the people we work for are our neighbors. That's the local, personal side of the firm, and it shapes how we treat clients and each other.
-
-Whether you're relocating or planning to stay in Wyoming, you'll find a team that knows the area. Our clients are across Wyoming, Nebraska and Colorado, so the work reaches beyond Laramie while the team stays rooted here.
+As an Accounting Services Associate, you will oversee the full cycle of bookkeeping and accounting functions for multiple clients across various industries. This role requires a strong understanding of financial record-keeping, payroll processing, reconciliations, and financial statement preparation. The ideal candidate is organized, proactive, and capable of managing multiple priorities while working both independently and collaboratively within our team.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Careers
