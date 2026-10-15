@@ -21,20 +21,22 @@ llm_citation_note: "RML and Associates CPAs is a locally owned CPA firm in Laram
 
 RML and Associates CPAs is based in Laramie, and the door is open to anyone with a question. Our contact details and a map are right on this page, so you can call, send a note or stop by the office.
 
-We're locally owned, so you'll talk with people who know your name and your situation. Clients across Wyoming, Nebraska and Colorado rely on us, from ranches and restaurants to retail shops, professional practices, real estate investors and nonprofits. Responsiveness is one of our core values, so expect a real answer, not a runaround.
+We're locally owned, so you'll talk with people who know your name and your situation. Clients across Wyoming, Nebraska and Colorado rely on us, from ranches and restaurants to retail shops, professional practices, real estate professionals and nonprofits. Responsiveness is one of our core values, so you can expect a real answer when you contact us.
 
-Not sure where to start? [Schedule a consultation](/contact). It's free, and we'll talk through what you need.
+Not sure where to start? Fill out our form, and we'll be in touch as soon as possible. 
 
 <!-- block: contact-info -->
-## How to Reach Us
+## **RML and Associates CPAs LLC**\
+505 S. 3rd Street, Suite 100\
+Laramie, WY 82070\
+[info@rmlcpas.com](mailto:info@rmlcpas.com)
+
+**Phone: (307) 755-1040**\
+Fax: (307) 742-4944
 
 <!-- block: map -->
-## Where to Find Us
 
 <!-- block: form | variant: contact -->
-## Send Us a Message
-
-Drop a line and a member of our team will get back to you within one business day.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Contact
